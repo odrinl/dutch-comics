@@ -1,0 +1,2937 @@
+[
+  {
+    "id": "s0",
+    "series": "4 Helden, De",
+    "img": "https://archive.org/services/img/4-helden-de-nl-01"
+  },
+  {
+    "id": "s1",
+    "series": "Argonautjes, De",
+    "img": "https://archive.org/services/img/argonautjes-de-nl-01"
+  },
+  {
+    "id": "s2",
+    "series": "Authentieke Herinneringen Van Docteur Mystère",
+    "img": "https://archive.org/services/img/authentieke-herinneringen-van-docteur-mystere-01"
+  },
+  {
+    "id": "s3",
+    "series": "Baal (Tijdschrift)",
+    "img": "https://archive.org/services/img/baal-tijdschrift-01"
+  },
+  {
+    "id": "s4",
+    "series": "Baard En Kale",
+    "img": "https://archive.org/services/img/baard-en-kale-01"
+  },
+  {
+    "id": "s5",
+    "series": "Baard En Kale (Hommage)",
+    "img": "https://archive.org/services/img/baard-en-kale-hommage-01"
+  },
+  {
+    "id": "s6",
+    "series": "Bab En Babou",
+    "img": "https://archive.org/services/img/bab-en-babou-01"
+  },
+  {
+    "id": "s7",
+    "series": "Baba Yega",
+    "img": "https://archive.org/services/img/baba-yega-01"
+  },
+  {
+    "id": "s8",
+    "series": "Babar",
+    "img": "https://archive.org/services/img/babar-02"
+  },
+  {
+    "id": "s9",
+    "series": "Babe Team",
+    "img": "https://archive.org/services/img/babe-team-01"
+  },
+  {
+    "id": "s10",
+    "series": "Babel (Oog & Blik)",
+    "img": "https://archive.org/services/img/babel-oog--blik-01"
+  },
+  {
+    "id": "s11",
+    "series": "Babel (Wierstra)",
+    "img": "https://archive.org/services/img/babel-wierstra-01"
+  },
+  {
+    "id": "s12",
+    "series": "Baberiba",
+    "img": "https://archive.org/services/img/baberiba-00"
+  },
+  {
+    "id": "s13",
+    "series": "Babs",
+    "img": "https://archive.org/services/img/babs-01"
+  },
+  {
+    "id": "s14",
+    "series": "Baby's In Black",
+    "img": "https://archive.org/services/img/babys-in-black-01"
+  },
+  {
+    "id": "s15",
+    "series": "Badlands",
+    "img": "https://archive.org/services/img/badlands-01"
+  },
+  {
+    "id": "s16",
+    "series": "Bajonet",
+    "img": "https://archive.org/services/img/bajonet-205"
+  },
+  {
+    "id": "s17",
+    "series": "Bakamé (De Grote Tovenaar)",
+    "img": "https://archive.org/services/img/bakame-de-grote-tovenaar-02"
+  },
+  {
+    "id": "s18",
+    "series": "Bakelandt (Kleur)",
+    "img": "https://archive.org/services/img/bakelandt-kleur-01"
+  },
+  {
+    "id": "s19",
+    "series": "Bakelandt (Zwart",
+    "img": "https://archive.org/services/img/bakelandt-zwart-wit-01"
+  },
+  {
+    "id": "s20",
+    "series": "Bakemono",
+    "img": "https://archive.org/services/img/bakemono-01"
+  },
+  {
+    "id": "s21",
+    "series": "Bakken Aan De Bar",
+    "img": "https://archive.org/services/img/bakken-aan-de-bar-01"
+  },
+  {
+    "id": "s22",
+    "series": "Balloen Pocket",
+    "img": "https://archive.org/services/img/balloen-pocket-01"
+  },
+  {
+    "id": "s23",
+    "series": "Bambam & Goliath",
+    "img": "https://archive.org/services/img/bambam--goliath-01"
+  },
+  {
+    "id": "s24",
+    "series": "Bamse",
+    "img": "https://archive.org/services/img/bamse-06"
+  },
+  {
+    "id": "s25",
+    "series": "Bamsie",
+    "img": "https://archive.org/services/img/bamsie-05"
+  },
+  {
+    "id": "s26",
+    "series": "Bandonéon",
+    "img": "https://archive.org/services/img/bandoneon-00"
+  },
+  {
+    "id": "s27",
+    "series": "Bankgeheimen",
+    "img": "https://archive.org/services/img/bankgeheimen-01"
+  },
+  {
+    "id": "s28",
+    "series": "Bankgeheimen USA",
+    "img": "https://archive.org/services/img/bankgeheimen-usa-01"
+  },
+  {
+    "id": "s29",
+    "series": "Baobab",
+    "img": "https://archive.org/services/img/baobab-01"
+  },
+  {
+    "id": "s30",
+    "series": "Barbapapa",
+    "img": "https://archive.org/services/img/barbapapa-01"
+  },
+  {
+    "id": "s31",
+    "series": "Barbapapa (Tijdschrift)",
+    "img": "https://archive.org/services/img/barbapapa-tijdschrift-1978"
+  },
+  {
+    "id": "s32",
+    "series": "Barbara Kruidje",
+    "img": "https://archive.org/services/img/barbara-kruidje-roer-me-niet-01"
+  },
+  {
+    "id": "s33",
+    "series": "Barbara Wolf",
+    "img": "https://archive.org/services/img/barbara-wolf-01"
+  },
+  {
+    "id": "s34",
+    "series": "Barbaraal",
+    "img": "https://archive.org/services/img/barbaraal-a01"
+  },
+  {
+    "id": "s35",
+    "series": "Barbie",
+    "img": "https://archive.org/services/img/barbie-01"
+  },
+  {
+    "id": "s36",
+    "series": "Barcelona Bij Dageraad",
+    "img": "https://archive.org/services/img/barcelona-bij-dageraad-01"
+  },
+  {
+    "id": "s37",
+    "series": "Barcelona F.C.",
+    "img": "https://archive.org/services/img/barcelona-fc-01"
+  },
+  {
+    "id": "s38",
+    "series": "Barelli",
+    "img": "https://archive.org/services/img/barelli-01"
+  },
+  {
+    "id": "s39",
+    "series": "Barend Terzijde",
+    "img": "https://archive.org/services/img/barend-terzijde-01"
+  },
+  {
+    "id": "s40",
+    "series": "Baron Ignace Karnemelk",
+    "img": "https://archive.org/services/img/baron-ignace-karnemelk-01"
+  },
+  {
+    "id": "s41",
+    "series": "Baron Van Tast Tot Zeveren",
+    "img": "https://archive.org/services/img/baron-van-tast-tot-zeveren-a01"
+  },
+  {
+    "id": "s42",
+    "series": "Barracuda",
+    "img": "https://archive.org/services/img/barracuda-01"
+  },
+  {
+    "id": "s43",
+    "series": "Bart De Graaff",
+    "img": "https://archive.org/services/img/bart-de-graaff-01"
+  },
+  {
+    "id": "s44",
+    "series": "Bart En Bob",
+    "img": "https://archive.org/services/img/bart-en-bob-01"
+  },
+  {
+    "id": "s45",
+    "series": "Bart Simpson",
+    "img": "https://archive.org/services/img/bart-simpson-01"
+  },
+  {
+    "id": "s46",
+    "series": "Bartje (Ritstier)",
+    "img": "https://archive.org/services/img/bartje-ritstier-01"
+  },
+  {
+    "id": "s47",
+    "series": "Bassie!",
+    "img": "https://archive.org/services/img/bassie-01"
+  },
+  {
+    "id": "s48",
+    "series": "Bastos & Zakousky",
+    "img": "https://archive.org/services/img/bastos--zakousky-01"
+  },
+  {
+    "id": "s49",
+    "series": "Batman (Baldakijn)",
+    "img": "https://archive.org/services/img/batman-baldakijn-00"
+  },
+  {
+    "id": "s50",
+    "series": "Batman Classics",
+    "img": "https://archive.org/services/img/batman-classics-001"
+  },
+  {
+    "id": "s51",
+    "series": "Batman (Dargaud)",
+    "img": "https://archive.org/services/img/batman-dargaud-01"
+  },
+  {
+    "id": "s52",
+    "series": "Batman (De Vliegende Hollander)",
+    "img": "https://archive.org/services/img/batman-de-vliegende-hollander-01"
+  },
+  {
+    "id": "s53",
+    "series": "Batman (Geïllustreerde Pers",
+    "img": "https://archive.org/services/img/batman-geillustreerde-pers-vanderhout-01"
+  },
+  {
+    "id": "s54",
+    "series": "Batman (Junior",
+    "img": "https://archive.org/services/img/batman-junior-press-01"
+  },
+  {
+    "id": "s55",
+    "series": "Batman Kidz",
+    "img": "https://archive.org/services/img/batman-kidz-01"
+  },
+  {
+    "id": "s56",
+    "series": "Batman Magazine",
+    "img": "https://archive.org/services/img/batman-magazine-01"
+  },
+  {
+    "id": "s57",
+    "series": "Batman (RW)",
+    "img": "https://archive.org/services/img/batman-rw-00"
+  },
+  {
+    "id": "s58",
+    "series": "Batman Special (Baldakijn)",
+    "img": "https://archive.org/services/img/batman-special-baldakijn-01"
+  },
+  {
+    "id": "s59",
+    "series": "Battle Chasers",
+    "img": "https://archive.org/services/img/battle-chasers-01"
+  },
+  {
+    "id": "s60",
+    "series": "Batwoman",
+    "img": "https://archive.org/services/img/batwoman-01"
+  },
+  {
+    "id": "s61",
+    "series": "Baudelaire",
+    "img": "https://archive.org/services/img/baudelaire-01"
+  },
+  {
+    "id": "s62",
+    "series": "Baudoin Collectie",
+    "img": "https://archive.org/services/img/baudoin-collectie-03"
+  },
+  {
+    "id": "s63",
+    "series": "Baxter",
+    "img": "https://archive.org/services/img/baxter-01"
+  },
+  {
+    "id": "s64",
+    "series": "Beast",
+    "img": "https://archive.org/services/img/beast-01"
+  },
+  {
+    "id": "s65",
+    "series": "Beatrice",
+    "img": "https://archive.org/services/img/beatrice-01"
+  },
+  {
+    "id": "s66",
+    "series": "Beatrijs En Coen",
+    "img": "https://archive.org/services/img/beatrijs-en-coen-01"
+  },
+  {
+    "id": "s67",
+    "series": "Beavis En Butt",
+    "img": "https://archive.org/services/img/beavis-en-butt-head-01"
+  },
+  {
+    "id": "s68",
+    "series": "Beeldromance",
+    "img": "https://archive.org/services/img/beeldromance-523"
+  },
+  {
+    "id": "s69",
+    "series": "Beeldscherm Avontuur",
+    "img": "https://archive.org/services/img/beeldscherm-avontuur-601"
+  },
+  {
+    "id": "s70",
+    "series": "Beeldscherm Detective",
+    "img": "https://archive.org/services/img/beeldscherm-detective-01"
+  },
+  {
+    "id": "s71",
+    "series": "Beeldschoon",
+    "img": "https://archive.org/services/img/beeldschoon-01"
+  },
+  {
+    "id": "s72",
+    "series": "Beep Beep, The Road Runner",
+    "img": "https://archive.org/services/img/beep-beep-the-road-runner-01"
+  },
+  {
+    "id": "s73",
+    "series": "Beertje Bambam",
+    "img": "https://archive.org/services/img/beertje-bambam-01"
+  },
+  {
+    "id": "s74",
+    "series": "Beestenbende",
+    "img": "https://archive.org/services/img/beestenbende-01"
+  },
+  {
+    "id": "s75",
+    "series": "Beestjes",
+    "img": "https://archive.org/services/img/beestjes-01"
+  },
+  {
+    "id": "s76",
+    "series": "Before Watchmen",
+    "img": "https://archive.org/services/img/before-watchmen-01"
+  },
+  {
+    "id": "s77",
+    "series": "Belem",
+    "img": "https://archive.org/services/img/belem-01"
+  },
+  {
+    "id": "s78",
+    "series": "België Gestript",
+    "img": "https://archive.org/services/img/belgie-gestript-01"
+  },
+  {
+    "id": "s79",
+    "series": "België In Beeld",
+    "img": "https://archive.org/services/img/belgie-in-beeld-01"
+  },
+  {
+    "id": "s80",
+    "series": "Bella",
+    "img": "https://archive.org/services/img/bella-01"
+  },
+  {
+    "id": "s81",
+    "series": "Bella Infiltreert",
+    "img": "https://archive.org/services/img/bella-infiltreert-01"
+  },
+  {
+    "id": "s82",
+    "series": "Belladonna",
+    "img": "https://archive.org/services/img/belladonna-01"
+  },
+  {
+    "id": "s83",
+    "series": "Bellary's Vloek",
+    "img": "https://archive.org/services/img/bellarys-vloek-01"
+  },
+  {
+    "id": "s84",
+    "series": "Belle En Het Beest",
+    "img": "https://archive.org/services/img/belle-en-het-beest-01"
+  },
+  {
+    "id": "s85",
+    "series": "Belle En Het Beest (De Geïllustreerde Pers)",
+    "img": "https://archive.org/services/img/belle-en-het-beest-de-geillustreerde-pers-01"
+  },
+  {
+    "id": "s86",
+    "series": "Belzarek",
+    "img": "https://archive.org/services/img/belzarek-01"
+  },
+  {
+    "id": "s87",
+    "series": "Ben De Boswachter",
+    "img": "https://archive.org/services/img/ben-de-boswachter-01"
+  },
+  {
+    "id": "s88",
+    "series": "Ben Hur",
+    "img": "https://archive.org/services/img/ben-hur-01"
+  },
+  {
+    "id": "s89",
+    "series": "Ben",
+    "img": "https://archive.org/services/img/ben-hur-01"
+  },
+  {
+    "id": "s90",
+    "series": "Ben X",
+    "img": "https://archive.org/services/img/ben-x-01"
+  },
+  {
+    "id": "s91",
+    "series": "Benjamin",
+    "img": "https://archive.org/services/img/benjamin-01"
+  },
+  {
+    "id": "s92",
+    "series": "Benson Gate",
+    "img": "https://archive.org/services/img/benson-gate-01"
+  },
+  {
+    "id": "s93",
+    "series": "Berck klassiekers",
+    "img": "https://archive.org/services/img/berck-klassiekers-02"
+  },
+  {
+    "id": "s94",
+    "series": "Berentand",
+    "img": "https://archive.org/services/img/berentand-01"
+  },
+  {
+    "id": "s95",
+    "series": "Berezina",
+    "img": "https://archive.org/services/img/berezina-01"
+  },
+  {
+    "id": "s96",
+    "series": "Bergbloempje",
+    "img": "https://archive.org/services/img/bergbloempje-01"
+  },
+  {
+    "id": "s97",
+    "series": "Bergese",
+    "img": "https://archive.org/services/img/bergese-02"
+  },
+  {
+    "id": "s98",
+    "series": "Bericht Van Mars",
+    "img": "https://archive.org/services/img/bericht-van-mars-01"
+  },
+  {
+    "id": "s99",
+    "series": "Berlijn",
+    "img": "https://archive.org/services/img/berlijn-01"
+  },
+  {
+    "id": "s100",
+    "series": "Berlijn Wordt Ons Graf",
+    "img": "https://archive.org/services/img/berlijn-wordt-ons-graf-01"
+  },
+  {
+    "id": "s101",
+    "series": "Berlin Avenue",
+    "img": "https://archive.org/services/img/berlin-avenue-01"
+  },
+  {
+    "id": "s102",
+    "series": "Bernaar En Chossé",
+    "img": "https://archive.org/services/img/bernaar-en-chosse-03"
+  },
+  {
+    "id": "s103",
+    "series": "Bernard Prince",
+    "img": "https://archive.org/services/img/bernard-prince-01"
+  },
+  {
+    "id": "s104",
+    "series": "Bernard Voorzichtig",
+    "img": "https://archive.org/services/img/bernard-voorzichtig-01"
+  },
+  {
+    "id": "s105",
+    "series": "Beroemde Sprookjes In Beeld",
+    "img": "https://archive.org/services/img/beroemde-sprookjes-in-beeld-01"
+  },
+  {
+    "id": "s106",
+    "series": "Beroemde Verhalen In Beeld",
+    "img": "https://archive.org/services/img/beroemde-verhalen-in-beeld-03"
+  },
+  {
+    "id": "s107",
+    "series": "Beroep Leraar",
+    "img": "https://archive.org/services/img/beroep-leraar-01"
+  },
+  {
+    "id": "s108",
+    "series": "Berreke Bluf",
+    "img": "https://archive.org/services/img/berreke-bluf-01"
+  },
+  {
+    "id": "s109",
+    "series": "Bert & Frank",
+    "img": "https://archive.org/services/img/bert--frank-01"
+  },
+  {
+    "id": "s110",
+    "series": "Bert",
+    "img": "https://archive.org/services/img/bert-01"
+  },
+  {
+    "id": "s111",
+    "series": "Bert Bus Bibliografie",
+    "img": "https://archive.org/services/img/bert-bus-bibliografie-01"
+  },
+  {
+    "id": "s112",
+    "series": "Bert En Bobje",
+    "img": "https://archive.org/services/img/bert-en-bobje-01"
+  },
+  {
+    "id": "s113",
+    "series": "Berten Rodenbach",
+    "img": "https://archive.org/services/img/berten-rodenbach-01"
+  },
+  {
+    "id": "s114",
+    "series": "Berthet",
+    "img": "https://archive.org/services/img/berthet-01"
+  },
+  {
+    "id": "s115",
+    "series": "Bessie Turf",
+    "img": "https://archive.org/services/img/bessie-turf-01"
+  },
+  {
+    "id": "s116",
+    "series": "Bessy",
+    "img": "https://archive.org/services/img/bessy-001"
+  },
+  {
+    "id": "s117",
+    "series": "Bessy Natuurkommando",
+    "img": "https://archive.org/services/img/bessy-natuurkommando-01"
+  },
+  {
+    "id": "s118",
+    "series": "Bestemming Peru",
+    "img": "https://archive.org/services/img/bestemming-peru-01"
+  },
+  {
+    "id": "s119",
+    "series": "Betelgeuze",
+    "img": "https://archive.org/services/img/betelgeuze-01"
+  },
+  {
+    "id": "s120",
+    "series": "Betoverd Venetië",
+    "img": "https://archive.org/services/img/betoverd-venetie-01"
+  },
+  {
+    "id": "s121",
+    "series": "Betoveringen",
+    "img": "https://archive.org/services/img/betoveringen-01"
+  },
+  {
+    "id": "s122",
+    "series": "Betty & Dodge",
+    "img": "https://archive.org/services/img/betty--dodge-01"
+  },
+  {
+    "id": "s123",
+    "series": "Betty Blues",
+    "img": "https://archive.org/services/img/betty-blues-01"
+  },
+  {
+    "id": "s124",
+    "series": "Betty Brisk",
+    "img": "https://archive.org/services/img/betty-brisk-01"
+  },
+  {
+    "id": "s125",
+    "series": "Betty Page",
+    "img": "https://archive.org/services/img/betty-page-01"
+  },
+  {
+    "id": "s126",
+    "series": "Beyblade Metal Masters (Tijdschrift)",
+    "img": "https://archive.org/services/img/beyblade-metal-masters-tijdschrift-2012"
+  },
+  {
+    "id": "s127",
+    "series": "Bezette Stad",
+    "img": "https://archive.org/services/img/bezette-stad-01"
+  },
+  {
+    "id": "s128",
+    "series": "Bezweringen",
+    "img": "https://archive.org/services/img/bezweringen-01"
+  },
+  {
+    "id": "s129",
+    "series": "BFF's",
+    "img": "https://archive.org/services/img/bffs-01"
+  },
+  {
+    "id": "s130",
+    "series": "Bibi's Vertellingen",
+    "img": "https://archive.org/services/img/bibis-vertellingen-01"
+  },
+  {
+    "id": "s131",
+    "series": "Bibliotheek Van Het Nederlands Beeldverhaal",
+    "img": "https://archive.org/services/img/bibliotheek-van-het-nederlands-beeldverhaal-02"
+  },
+  {
+    "id": "s132",
+    "series": "Biebel",
+    "img": "https://archive.org/services/img/biebel-01"
+  },
+  {
+    "id": "s133",
+    "series": "Biechten",
+    "img": "https://archive.org/services/img/biechten-01"
+  },
+  {
+    "id": "s134",
+    "series": "Bielzenblues",
+    "img": "https://archive.org/services/img/bielzenblues-01"
+  },
+  {
+    "id": "s135",
+    "series": "Biep En Zwiep",
+    "img": "https://archive.org/services/img/biep-en-zwiep-01"
+  },
+  {
+    "id": "s136",
+    "series": "Bieske",
+    "img": "https://archive.org/services/img/bieske-01"
+  },
+  {
+    "id": "s137",
+    "series": "Bietel",
+    "img": "https://archive.org/services/img/bietel-09"
+  },
+  {
+    "id": "s138",
+    "series": "Big Bill Is Dood",
+    "img": "https://archive.org/services/img/big-bill-is-dood-01"
+  },
+  {
+    "id": "s139",
+    "series": "Big Foot",
+    "img": "https://archive.org/services/img/big-foot-01"
+  },
+  {
+    "id": "s140",
+    "series": "Biggles",
+    "img": "https://archive.org/services/img/biggles-01"
+  },
+  {
+    "id": "s141",
+    "series": "Bij De Marine",
+    "img": "https://archive.org/services/img/bij-de-marine-01"
+  },
+  {
+    "id": "s142",
+    "series": "Bij Ons In Het Dorp",
+    "img": "https://archive.org/services/img/bij-ons-in-het-dorp-01"
+  },
+  {
+    "id": "s143",
+    "series": "Bij Sjaak, Tussen Pot En Pint",
+    "img": "https://archive.org/services/img/bij-sjaak-tussen-pot-en-pint-01"
+  },
+  {
+    "id": "s144",
+    "series": "Blauwe Hagedis, De",
+    "img": "https://archive.org/services/img/blauwe-hagedis-de-nl-01"
+  },
+  {
+    "id": "s145",
+    "series": "Blauwe Pijl",
+    "img": "https://archive.org/services/img/blauwe-pijl-06"
+  },
+  {
+    "id": "s146",
+    "series": "Blauwe Pillen",
+    "img": "https://archive.org/services/img/blauwe-pillen-01"
+  },
+  {
+    "id": "s147",
+    "series": "Blauwe Rook",
+    "img": "https://archive.org/services/img/blauwe-rook-01"
+  },
+  {
+    "id": "s148",
+    "series": "Blauwe Sperwer",
+    "img": "https://archive.org/services/img/blauwe-sperwer-01"
+  },
+  {
+    "id": "s149",
+    "series": "Bleach",
+    "img": "https://archive.org/services/img/bleach-01"
+  },
+  {
+    "id": "s150",
+    "series": "Blijven Jullie Maar Beneden",
+    "img": "https://archive.org/services/img/blijven-jullie-maar-beneden-01"
+  },
+  {
+    "id": "s151",
+    "series": "Bliksem",
+    "img": "https://archive.org/services/img/bliksem-01"
+  },
+  {
+    "id": "s152",
+    "series": "Blindemannetje",
+    "img": "https://archive.org/services/img/blindemannetje-01"
+  },
+  {
+    "id": "s153",
+    "series": "Block 109",
+    "img": "https://archive.org/services/img/block-109-01"
+  },
+  {
+    "id": "s154",
+    "series": "Bloed!",
+    "img": "https://archive.org/services/img/bloed-01"
+  },
+  {
+    "id": "s155",
+    "series": "Bloed En Stilte",
+    "img": "https://archive.org/services/img/bloed-en-stilte-01"
+  },
+  {
+    "id": "s156",
+    "series": "Bloedbanden",
+    "img": "https://archive.org/services/img/bloedbanden-01"
+  },
+  {
+    "id": "s157",
+    "series": "Bloederige Verhalen",
+    "img": "https://archive.org/services/img/bloederige-verhalen-002"
+  },
+  {
+    "id": "s158",
+    "series": "Bloedgeheimen",
+    "img": "https://archive.org/services/img/bloedgeheimen-01"
+  },
+  {
+    "id": "s159",
+    "series": "Bloedheet",
+    "img": "https://archive.org/services/img/bloedheet-01"
+  },
+  {
+    "id": "s160",
+    "series": "Bloedkoninginnen",
+    "img": "https://archive.org/services/img/bloedkoninginnen-01"
+  },
+  {
+    "id": "s161",
+    "series": "Bloedvijanden",
+    "img": "https://archive.org/services/img/bloedvijanden-01"
+  },
+  {
+    "id": "s162",
+    "series": "Bloedwinter",
+    "img": "https://archive.org/services/img/bloedwinter-01"
+  },
+  {
+    "id": "s163",
+    "series": "Bloedworst, Zweetsok & Krokodillentranen",
+    "img": "https://archive.org/services/img/bloedworst-zweetsok--krokodillentranen-01"
+  },
+  {
+    "id": "s164",
+    "series": "Bloem Van De Nieuwe Wereld",
+    "img": "https://archive.org/services/img/bloem-van-de-nieuwe-wereld-01"
+  },
+  {
+    "id": "s165",
+    "series": "Bloemenschrift",
+    "img": "https://archive.org/services/img/bloemenschrift-01"
+  },
+  {
+    "id": "s166",
+    "series": "Bloesems In De Herfst",
+    "img": "https://archive.org/services/img/bloesems-in-de-herfst-01"
+  },
+  {
+    "id": "s167",
+    "series": "Blondie En Blinkie",
+    "img": "https://archive.org/services/img/blondie-en-blinkie-04"
+  },
+  {
+    "id": "s168",
+    "series": "Blondje",
+    "img": "https://archive.org/services/img/blondje-01"
+  },
+  {
+    "id": "s169",
+    "series": "Bloodborne",
+    "img": "https://archive.org/services/img/bloodborne-01"
+  },
+  {
+    "id": "s170",
+    "series": "Bloodline",
+    "img": "https://archive.org/services/img/bloodline-01"
+  },
+  {
+    "id": "s171",
+    "series": "Blook",
+    "img": "https://archive.org/services/img/blook-01"
+  },
+  {
+    "id": "s172",
+    "series": "Blotch",
+    "img": "https://archive.org/services/img/blotch-01"
+  },
+  {
+    "id": "s173",
+    "series": "Blue Bird",
+    "img": "https://archive.org/services/img/blue-bird-01"
+  },
+  {
+    "id": "s174",
+    "series": "Blue Note",
+    "img": "https://archive.org/services/img/blue-note-01"
+  },
+  {
+    "id": "s175",
+    "series": "Blueberry Door...",
+    "img": "https://archive.org/services/img/blueberry-door-01"
+  },
+  {
+    "id": "s176",
+    "series": "Blueberry",
+    "img": "https://archive.org/services/img/blueberry-i02"
+  },
+  {
+    "id": "s177",
+    "series": "Bob A.",
+    "img": "https://archive.org/services/img/bob-a-01"
+  },
+  {
+    "id": "s178",
+    "series": "Bob Crack",
+    "img": "https://archive.org/services/img/bob-crack-03"
+  },
+  {
+    "id": "s179",
+    "series": "Bob De Kerpel",
+    "img": "https://archive.org/services/img/bob-de-kerpel-01"
+  },
+  {
+    "id": "s180",
+    "series": "Bob De Moor Reeks",
+    "img": "https://archive.org/services/img/bob-de-moor-reeks-01"
+  },
+  {
+    "id": "s181",
+    "series": "Bob Dylan Revisited",
+    "img": "https://archive.org/services/img/bob-dylan-revisited-01"
+  },
+  {
+    "id": "s182",
+    "series": "Bob Evers",
+    "img": "https://archive.org/services/img/bob-evers-01"
+  },
+  {
+    "id": "s183",
+    "series": "Bob Mallard",
+    "img": "https://archive.org/services/img/bob-mallard-01"
+  },
+  {
+    "id": "s184",
+    "series": "Bob Marone",
+    "img": "https://archive.org/services/img/bob-marone-01"
+  },
+  {
+    "id": "s185",
+    "series": "Bob Moon En Titania",
+    "img": "https://archive.org/services/img/bob-moon-en-titania-01"
+  },
+  {
+    "id": "s186",
+    "series": "Bob Morane",
+    "img": "https://archive.org/services/img/bob-morane-01"
+  },
+  {
+    "id": "s187",
+    "series": "Bob Morane (Illegale Uitgaven Lama)",
+    "img": "https://archive.org/services/img/bob-morane-illegale-uitgaven-lama-01"
+  },
+  {
+    "id": "s188",
+    "series": "Bob Morane Presenteert",
+    "img": "https://archive.org/services/img/bob-morane-presenteert-01"
+  },
+  {
+    "id": "s189",
+    "series": "Bob Neyret, Gentleman Driver",
+    "img": "https://archive.org/services/img/bob-neyret-gentleman-driver-01"
+  },
+  {
+    "id": "s190",
+    "series": "Bobo Het Eskimojongetje",
+    "img": "https://archive.org/services/img/bobo-het-eskimojongetje-02"
+  },
+  {
+    "id": "s191",
+    "series": "Bobo (Oberon)",
+    "img": "https://archive.org/services/img/bobo-oberon-01"
+  },
+  {
+    "id": "s192",
+    "series": "Bobo (Tijdschrift)",
+    "img": "https://archive.org/services/img/bobo-tijdschrift-1968"
+  },
+  {
+    "id": "s193",
+    "series": "Bobobobs",
+    "img": "https://archive.org/services/img/bobobobs-01"
+  },
+  {
+    "id": "s194",
+    "series": "Borgia",
+    "img": "https://archive.org/services/img/borgia-01"
+  },
+  {
+    "id": "s195",
+    "series": "Boris Boef",
+    "img": "https://archive.org/services/img/boris-boef-01"
+  },
+  {
+    "id": "s196",
+    "series": "Boris Karloff",
+    "img": "https://archive.org/services/img/boris-karloff-01"
+  },
+  {
+    "id": "s197",
+    "series": "Boske",
+    "img": "https://archive.org/services/img/boske-01"
+  },
+  {
+    "id": "s198",
+    "series": "Bosliefje",
+    "img": "https://archive.org/services/img/bosliefje-01"
+  },
+  {
+    "id": "s199",
+    "series": "Boss En Bolle",
+    "img": "https://archive.org/services/img/boss-en-bolle-01"
+  },
+  {
+    "id": "s200",
+    "series": "Bosz",
+    "img": "https://archive.org/services/img/bosz-02"
+  },
+  {
+    "id": "s201",
+    "series": "Boudewijn",
+    "img": "https://archive.org/services/img/boudewijn-01"
+  },
+  {
+    "id": "s202",
+    "series": "Boudewijn De Grom",
+    "img": "https://archive.org/services/img/boudewijn-de-grom-02"
+  },
+  {
+    "id": "s203",
+    "series": "Bouncer",
+    "img": "https://archive.org/services/img/bouncer-01"
+  },
+  {
+    "id": "s204",
+    "series": "Bourbon Street",
+    "img": "https://archive.org/services/img/bourbon-street-01"
+  },
+  {
+    "id": "s205",
+    "series": "Bouterbode (Tijdschrift)",
+    "img": "https://archive.org/services/img/bouterbode-tijdschrift-1997"
+  },
+  {
+    "id": "s206",
+    "series": "Bouvaert",
+    "img": "https://archive.org/services/img/bouvaert-01"
+  },
+  {
+    "id": "s207",
+    "series": "Bouwstenen Van Het Heelal",
+    "img": "https://archive.org/services/img/bouwstenen-van-het-heelal-01"
+  },
+  {
+    "id": "s208",
+    "series": "Boven De Wolken",
+    "img": "https://archive.org/services/img/boven-de-wolken-01"
+  },
+  {
+    "id": "s209",
+    "series": "Bovenaarde",
+    "img": "https://archive.org/services/img/bovenaarde-01"
+  },
+  {
+    "id": "s210",
+    "series": "Bovenste Besties",
+    "img": "https://archive.org/services/img/bovenste-besties-01"
+  },
+  {
+    "id": "s211",
+    "series": "Bowen Sergeant Major",
+    "img": "https://archive.org/services/img/bowen-sergeant-major-01"
+  },
+  {
+    "id": "s212",
+    "series": "Box",
+    "img": "https://archive.org/services/img/box-01"
+  },
+  {
+    "id": "s213",
+    "series": "Brabant Strip Magazine",
+    "img": "https://archive.org/services/img/brabant-strip-magazine----vakantiealbums-07"
+  },
+  {
+    "id": "s214",
+    "series": "Brabant Strip Magazine (Tijdschrift)",
+    "img": "https://archive.org/services/img/brabant-strip-magazine-tijdschrift-137"
+  },
+  {
+    "id": "s215",
+    "series": "Brabbel En Buggie",
+    "img": "https://archive.org/services/img/brabbel-en-buggie-01"
+  },
+  {
+    "id": "s216",
+    "series": "Bram Jager En Zijn Buur",
+    "img": "https://archive.org/services/img/bram-jager-en-zijn-buur-01"
+  },
+  {
+    "id": "s217",
+    "series": "Brammetje Bram",
+    "img": "https://archive.org/services/img/brammetje-bram-01"
+  },
+  {
+    "id": "s218",
+    "series": "Brammetje Fok",
+    "img": "https://archive.org/services/img/brammetje-fok-a03"
+  },
+  {
+    "id": "s219",
+    "series": "Brandwondenpreventie",
+    "img": "https://archive.org/services/img/brandwondenpreventie-01"
+  },
+  {
+    "id": "s220",
+    "series": "Brazil 2022",
+    "img": "https://archive.org/services/img/brazil-2022-01"
+  },
+  {
+    "id": "s221",
+    "series": "Bren",
+    "img": "https://archive.org/services/img/bren-01"
+  },
+  {
+    "id": "s222",
+    "series": "Brendan",
+    "img": "https://archive.org/services/img/brendan-01"
+  },
+  {
+    "id": "s223",
+    "series": "Bri d'Alban",
+    "img": "https://archive.org/services/img/bri-dalban-01"
+  },
+  {
+    "id": "s224",
+    "series": "Brian Bones, Privédetective",
+    "img": "https://archive.org/services/img/brian-bones-privedetective-01"
+  },
+  {
+    "id": "s225",
+    "series": "Brian Howell",
+    "img": "https://archive.org/services/img/brian-howell-01"
+  },
+  {
+    "id": "s226",
+    "series": "Brice Bolt",
+    "img": "https://archive.org/services/img/brice-bolt-01"
+  },
+  {
+    "id": "s227",
+    "series": "Brick Bradford",
+    "img": "https://archive.org/services/img/brick-bradford-01"
+  },
+  {
+    "id": "s228",
+    "series": "Brieven Uit De Bar",
+    "img": "https://archive.org/services/img/brieven-uit-de-bar-i01"
+  },
+  {
+    "id": "s229",
+    "series": "Brieven Uit Een Verre Toekomst",
+    "img": "https://archive.org/services/img/brieven-uit-een-verre-toekomst-01"
+  },
+  {
+    "id": "s230",
+    "series": "Brigadier Dog",
+    "img": "https://archive.org/services/img/brigadier-dog-01"
+  },
+  {
+    "id": "s231",
+    "series": "Broadway",
+    "img": "https://archive.org/services/img/broadway-01"
+  },
+  {
+    "id": "s232",
+    "series": "Brocéliande",
+    "img": "https://archive.org/services/img/broceliande-01"
+  },
+  {
+    "id": "s233",
+    "series": "Broeder Bollijn",
+    "img": "https://archive.org/services/img/broeder-bollijn-01"
+  },
+  {
+    "id": "s234",
+    "series": "Broeder Elooi & Cibke",
+    "img": "https://archive.org/services/img/broeder-elooi--cibke-01"
+  },
+  {
+    "id": "s235",
+    "series": "Broeder Lono",
+    "img": "https://archive.org/services/img/broeder-lono-02"
+  },
+  {
+    "id": "s236",
+    "series": "Broer Konijn",
+    "img": "https://archive.org/services/img/broer-konijn-01"
+  },
+  {
+    "id": "s237",
+    "series": "Brommy & Tommy",
+    "img": "https://archive.org/services/img/brommy--tommy-01"
+  },
+  {
+    "id": "s238",
+    "series": "Broodje Crisis",
+    "img": "https://archive.org/services/img/broodje-crisis-01"
+  },
+  {
+    "id": "s239",
+    "series": "Broomm",
+    "img": "https://archive.org/services/img/broomm-01"
+  },
+  {
+    "id": "s240",
+    "series": "Brougue",
+    "img": "https://archive.org/services/img/brougue-01"
+  },
+  {
+    "id": "s241",
+    "series": "Broze Stad",
+    "img": "https://archive.org/services/img/broze-stad-01"
+  },
+  {
+    "id": "s242",
+    "series": "Bruce Bullet",
+    "img": "https://archive.org/services/img/bruce-bullet-01"
+  },
+  {
+    "id": "s243",
+    "series": "Bruce J. Hawker",
+    "img": "https://archive.org/services/img/bruce-j-hawker-01"
+  },
+  {
+    "id": "s244",
+    "series": "Bruintje Beer",
+    "img": "https://archive.org/services/img/bruintje-beer-11"
+  },
+  {
+    "id": "s245",
+    "series": "Bruno Brazil",
+    "img": "https://archive.org/services/img/bruno-brazil-01"
+  },
+  {
+    "id": "s246",
+    "series": "Bruno De Bever",
+    "img": "https://archive.org/services/img/bruno-de-bever-01"
+  },
+  {
+    "id": "s247",
+    "series": "Bruss.",
+    "img": "https://archive.org/services/img/bruss-01"
+  },
+  {
+    "id": "s248",
+    "series": "Brussel",
+    "img": "https://archive.org/services/img/brussel-01"
+  },
+  {
+    "id": "s249",
+    "series": "Brussel In Beeldekes",
+    "img": "https://archive.org/services/img/brussel-in-beeldekes-01"
+  },
+  {
+    "id": "s250",
+    "series": "Brussel Routes",
+    "img": "https://archive.org/services/img/brussel-routes-01"
+  },
+  {
+    "id": "s251",
+    "series": "Brute Verhalen",
+    "img": "https://archive.org/services/img/brute-verhalen-01"
+  },
+  {
+    "id": "s252",
+    "series": "Bruxelles",
+    "img": "https://archive.org/services/img/bruxelles-01"
+  },
+  {
+    "id": "s253",
+    "series": "Bruxman",
+    "img": "https://archive.org/services/img/bruxman-01"
+  },
+  {
+    "id": "s254",
+    "series": "Bruxxxel",
+    "img": "https://archive.org/services/img/bruxxxel-01"
+  },
+  {
+    "id": "s255",
+    "series": "Buck Danny",
+    "img": "https://archive.org/services/img/buck-danny-01"
+  },
+  {
+    "id": "s256",
+    "series": "Bud Broadway",
+    "img": "https://archive.org/services/img/bud-broadway-01"
+  },
+  {
+    "id": "s257",
+    "series": "Buddy Longway",
+    "img": "https://archive.org/services/img/buddy-longway-01"
+  },
+  {
+    "id": "s258",
+    "series": "Buffalo Bill",
+    "img": "https://archive.org/services/img/buffalo-bill-d01"
+  },
+  {
+    "id": "s259",
+    "series": "Buffalo Bill (Dimensie)",
+    "img": "https://archive.org/services/img/buffalo-bill-dimensie-01"
+  },
+  {
+    "id": "s260",
+    "series": "Buffalo Bill En Billy The Kid",
+    "img": "https://archive.org/services/img/buffalo-bill-en-billy-the-kid-1967"
+  },
+  {
+    "id": "s261",
+    "series": "Buffalo Bill (Goudvink)",
+    "img": "https://archive.org/services/img/buffalo-bill-goudvink-01"
+  },
+  {
+    "id": "s262",
+    "series": "Buffalo Bull",
+    "img": "https://archive.org/services/img/buffalo-bull-01"
+  },
+  {
+    "id": "s263",
+    "series": "Buffalo Runner",
+    "img": "https://archive.org/services/img/buffalo-runner-01"
+  },
+  {
+    "id": "s264",
+    "series": "Bug",
+    "img": "https://archive.org/services/img/bug-01"
+  },
+  {
+    "id": "s265",
+    "series": "Bugs Bunny & Co",
+    "img": "https://archive.org/services/img/bugs-bunny--co-jaargang-01"
+  },
+  {
+    "id": "s266",
+    "series": "Bugs Bunny",
+    "img": "https://archive.org/services/img/bugs-bunny-01"
+  },
+  {
+    "id": "s267",
+    "series": "Buldog Reeks",
+    "img": "https://archive.org/services/img/buldog-reeks-01"
+  },
+  {
+    "id": "s268",
+    "series": "Bulletje En Boonestaak (Arbeiderspers 3e Reeks)",
+    "img": "https://archive.org/services/img/bulletje-en-boonestaak-arbeiderspers-3e-reeks-01"
+  },
+  {
+    "id": "s269",
+    "series": "Bulletje En Boonestaak (Arbeiderspers 4e Reeks)",
+    "img": "https://archive.org/services/img/bulletje-en-boonestaak-arbeiderspers-4e-reeks-01"
+  },
+  {
+    "id": "s270",
+    "series": "Bulletje En Boonestaak (Boumaar)",
+    "img": "https://archive.org/services/img/bulletje-en-boonestaak-boumaar-04"
+  },
+  {
+    "id": "s271",
+    "series": "Bulletje En Boonestaak (D'Roodkoopren Knoop)",
+    "img": "https://archive.org/services/img/bulletje-en-boonestaak-droodkoopren-knoop-01"
+  },
+  {
+    "id": "s272",
+    "series": "Bully Dog",
+    "img": "https://archive.org/services/img/bully-dog-a04"
+  },
+  {
+    "id": "s273",
+    "series": "Bunker",
+    "img": "https://archive.org/services/img/bunker-01"
+  },
+  {
+    "id": "s274",
+    "series": "Bureau Hoofdraadsman",
+    "img": "https://archive.org/services/img/bureau-hoofdraadsman-02"
+  },
+  {
+    "id": "s275",
+    "series": "Burka Babes",
+    "img": "https://archive.org/services/img/burka-babes-01"
+  },
+  {
+    "id": "s276",
+    "series": "Burton & Cyb",
+    "img": "https://archive.org/services/img/burton--cyb-01"
+  },
+  {
+    "id": "s277",
+    "series": "Button Man",
+    "img": "https://archive.org/services/img/button-man-01"
+  },
+  {
+    "id": "s278",
+    "series": "Buzz And Bell",
+    "img": "https://archive.org/services/img/buzz-and-bell-01"
+  },
+  {
+    "id": "s279",
+    "series": "Captain Sir Richard Francis Burton",
+    "img": "https://archive.org/services/img/captain-sir-richard-francis-burton-01"
+  },
+  {
+    "id": "s280",
+    "series": "Collectie Balista",
+    "img": "https://archive.org/services/img/collectie-balista-00"
+  },
+  {
+    "id": "s281",
+    "series": "Collectie Bamboe",
+    "img": "https://archive.org/services/img/collectie-bamboe-00"
+  },
+  {
+    "id": "s282",
+    "series": "Collectie Moord En Doodslag",
+    "img": "https://archive.org/services/img/collectie-moord-en-doodslag-01"
+  },
+  {
+    "id": "s283",
+    "series": "Collectie Nooitgedacht",
+    "img": "https://archive.org/services/img/collectie-nooitgedacht-01"
+  },
+  {
+    "id": "s284",
+    "series": "Collectie Pilote",
+    "img": "https://archive.org/services/img/collectie-pilote-01"
+  },
+  {
+    "id": "s285",
+    "series": "Collectie Premiere",
+    "img": "https://archive.org/services/img/collectie-premiere-01"
+  },
+  {
+    "id": "s286",
+    "series": "Collectie Prestige",
+    "img": "https://archive.org/services/img/collectie-prestige-05"
+  },
+  {
+    "id": "s287",
+    "series": "Collectie Register",
+    "img": "https://archive.org/services/img/collectie-register-01"
+  },
+  {
+    "id": "s288",
+    "series": "Collectie Rood",
+    "img": "https://archive.org/services/img/collectie-rood-01"
+  },
+  {
+    "id": "s289",
+    "series": "Collectie Savanne",
+    "img": "https://archive.org/services/img/collectie-savanne-01"
+  },
+  {
+    "id": "s290",
+    "series": "Collectie Shock",
+    "img": "https://archive.org/services/img/collectie-shock-01"
+  },
+  {
+    "id": "s291",
+    "series": "Collectie TeGek",
+    "img": "https://archive.org/services/img/collectie-tegek-01"
+  },
+  {
+    "id": "s292",
+    "series": "Collectie Vinci",
+    "img": "https://archive.org/services/img/collectie-vinci-01"
+  },
+  {
+    "id": "s293",
+    "series": "Collectie Vizier",
+    "img": "https://archive.org/services/img/collectie-vizier-02"
+  },
+  {
+    "id": "s294",
+    "series": "Collectie Wonderland Half Vier Productions",
+    "img": "https://archive.org/services/img/collectie-wonderland-half-vier-productions-04"
+  },
+  {
+    "id": "s295",
+    "series": "Colt Walker",
+    "img": "https://archive.org/services/img/colt-walker-01"
+  },
+  {
+    "id": "s296",
+    "series": "Coma",
+    "img": "https://archive.org/services/img/coma-01"
+  },
+  {
+    "id": "s297",
+    "series": "Comanche",
+    "img": "https://archive.org/services/img/comanche-01"
+  },
+  {
+    "id": "s298",
+    "series": "Comix",
+    "img": "https://archive.org/services/img/comix-01"
+  },
+  {
+    "id": "s299",
+    "series": "Commando Classics",
+    "img": "https://archive.org/services/img/commando-classics-01"
+  },
+  {
+    "id": "s300",
+    "series": "Commando Kerstman",
+    "img": "https://archive.org/services/img/commando-kerstman-01"
+  },
+  {
+    "id": "s301",
+    "series": "Commando",
+    "img": "https://archive.org/services/img/commando-reeks-02"
+  },
+  {
+    "id": "s302",
+    "series": "Commando Superstrip",
+    "img": "https://archive.org/services/img/commando-superstrip-502"
+  },
+  {
+    "id": "s303",
+    "series": "Complot",
+    "img": "https://archive.org/services/img/complot-01"
+  },
+  {
+    "id": "s304",
+    "series": "Conan",
+    "img": "https://archive.org/services/img/conan-01"
+  },
+  {
+    "id": "s305",
+    "series": "Conan De Barbaar",
+    "img": "https://archive.org/services/img/conan-de-barbaar-01"
+  },
+  {
+    "id": "s306",
+    "series": "Conan De Barbaar Special",
+    "img": "https://archive.org/services/img/conan-de-barbaar-special-01"
+  },
+  {
+    "id": "s307",
+    "series": "Conan De Weg Der Koningen",
+    "img": "https://archive.org/services/img/conan-de-weg-der-koningen-01"
+  },
+  {
+    "id": "s308",
+    "series": "Conan (Glenat)",
+    "img": "https://archive.org/services/img/conan-glenat-01"
+  },
+  {
+    "id": "s309",
+    "series": "Conan Kronieken Van Hyboria",
+    "img": "https://archive.org/services/img/conan-kronieken-van-hyboria-01"
+  },
+  {
+    "id": "s310",
+    "series": "Conceptions",
+    "img": "https://archive.org/services/img/conceptions-01"
+  },
+  {
+    "id": "s311",
+    "series": "Conny",
+    "img": "https://archive.org/services/img/conny-01"
+  },
+  {
+    "id": "s312",
+    "series": "Conquistador (Glénat)",
+    "img": "https://archive.org/services/img/conquistador-glenat-02"
+  },
+  {
+    "id": "s313",
+    "series": "Conrad",
+    "img": "https://archive.org/services/img/conrad-01"
+  },
+  {
+    "id": "s314",
+    "series": "Coplan In Beeld",
+    "img": "https://archive.org/services/img/coplan-in-beeld-01"
+  },
+  {
+    "id": "s315",
+    "series": "Cor Morelli",
+    "img": "https://archive.org/services/img/cor-morelli----open-dossiers-01"
+  },
+  {
+    "id": "s316",
+    "series": "Coraly Valley",
+    "img": "https://archive.org/services/img/coraly-valley-01"
+  },
+  {
+    "id": "s317",
+    "series": "Cordelia",
+    "img": "https://archive.org/services/img/cordelia-01"
+  },
+  {
+    "id": "s318",
+    "series": "Corentin",
+    "img": "https://archive.org/services/img/corentin-01"
+  },
+  {
+    "id": "s319",
+    "series": "Cori De Scheepsjongen",
+    "img": "https://archive.org/services/img/cori-de-scheepsjongen-01"
+  },
+  {
+    "id": "s320",
+    "series": "Corto Maltese",
+    "img": "https://archive.org/services/img/corto-maltese-a01"
+  },
+  {
+    "id": "s321",
+    "series": "Cosa Nostra",
+    "img": "https://archive.org/services/img/cosa-nostra-01"
+  },
+  {
+    "id": "s322",
+    "series": "Cosmos Milady",
+    "img": "https://archive.org/services/img/cosmos-milady-01"
+  },
+  {
+    "id": "s323",
+    "series": "Cossu",
+    "img": "https://archive.org/services/img/cossu-01"
+  },
+  {
+    "id": "s324",
+    "series": "Costa",
+    "img": "https://archive.org/services/img/costa-01"
+  },
+  {
+    "id": "s325",
+    "series": "Cotton Kid",
+    "img": "https://archive.org/services/img/cotton-kid-01"
+  },
+  {
+    "id": "s326",
+    "series": "Coutoo",
+    "img": "https://archive.org/services/img/coutoo-01"
+  },
+  {
+    "id": "s327",
+    "series": "Cowboy Henk",
+    "img": "https://archive.org/services/img/cowboy-henk-01"
+  },
+  {
+    "id": "s328",
+    "series": "Cowboy John",
+    "img": "https://archive.org/services/img/cowboy-john-01"
+  },
+  {
+    "id": "s329",
+    "series": "Cowboy Superstrip",
+    "img": "https://archive.org/services/img/cowboy-superstrip-501"
+  },
+  {
+    "id": "s330",
+    "series": "Cranach Van Morganloup",
+    "img": "https://archive.org/services/img/cranach-van-morganloup-01"
+  },
+  {
+    "id": "s331",
+    "series": "Crazy Cavia's",
+    "img": "https://archive.org/services/img/crazy-cavias-01"
+  },
+  {
+    "id": "s332",
+    "series": "Crazy (Tijdschrift)",
+    "img": "https://archive.org/services/img/crazy-tijdschrift-1982"
+  },
+  {
+    "id": "s333",
+    "series": "Création",
+    "img": "https://archive.org/services/img/creation-01"
+  },
+  {
+    "id": "s334",
+    "series": "Creepy (Tijdschrift)",
+    "img": "https://archive.org/services/img/creepy-tijdschrift-01"
+  },
+  {
+    "id": "s335",
+    "series": "Crimi Mini",
+    "img": "https://archive.org/services/img/crimi-mini-strip-03"
+  },
+  {
+    "id": "s336",
+    "series": "Criminal",
+    "img": "https://archive.org/services/img/criminal-01"
+  },
+  {
+    "id": "s337",
+    "series": "Crimson",
+    "img": "https://archive.org/services/img/crimson-01"
+  },
+  {
+    "id": "s338",
+    "series": "Cristal",
+    "img": "https://archive.org/services/img/cristal-01"
+  },
+  {
+    "id": "s339",
+    "series": "Cromwell Stone",
+    "img": "https://archive.org/services/img/cromwell-stone-03"
+  },
+  {
+    "id": "s340",
+    "series": "Cross Fire",
+    "img": "https://archive.org/services/img/cross-fire-01"
+  },
+  {
+    "id": "s341",
+    "series": "Crossover",
+    "img": "https://archive.org/services/img/crossover-01"
+  },
+  {
+    "id": "s342",
+    "series": "Cryozone",
+    "img": "https://archive.org/services/img/cryozone-01"
+  },
+  {
+    "id": "s343",
+    "series": "Cuervos",
+    "img": "https://archive.org/services/img/cuervos-01"
+  },
+  {
+    "id": "s344",
+    "series": "Cultuur & Techniek",
+    "img": "https://archive.org/services/img/cultuur--techniek-01"
+  },
+  {
+    "id": "s345",
+    "series": "Cupido",
+    "img": "https://archive.org/services/img/cupido-01"
+  },
+  {
+    "id": "s346",
+    "series": "Cupido Classics",
+    "img": "https://archive.org/services/img/cupido-classics-05"
+  },
+  {
+    "id": "s347",
+    "series": "Cutie B.",
+    "img": "https://archive.org/services/img/cutie-b-01"
+  },
+  {
+    "id": "s348",
+    "series": "Cutting Edge",
+    "img": "https://archive.org/services/img/cutting-edge-01"
+  },
+  {
+    "id": "s349",
+    "series": "Cyberkiller",
+    "img": "https://archive.org/services/img/cyberkiller-01"
+  },
+  {
+    "id": "s350",
+    "series": "Cycloman",
+    "img": "https://archive.org/services/img/cycloman-01"
+  },
+  {
+    "id": "s351",
+    "series": "Cycloop",
+    "img": "https://archive.org/services/img/cycloop-01"
+  },
+  {
+    "id": "s352",
+    "series": "Cynocefalen",
+    "img": "https://archive.org/services/img/cynocefalen-01"
+  },
+  {
+    "id": "s353",
+    "series": "De Avonturen Van Bassie En Adriaan",
+    "img": "https://archive.org/services/img/de-avonturen-van-bassie-en-adriaan-01"
+  },
+  {
+    "id": "s354",
+    "series": "De Avonturen Van Belgman",
+    "img": "https://archive.org/services/img/de-avonturen-van-belgman-01"
+  },
+  {
+    "id": "s355",
+    "series": "De Avonturen Van Betsy",
+    "img": "https://archive.org/services/img/de-avonturen-van-betsy-01"
+  },
+  {
+    "id": "s356",
+    "series": "De Avonturen Van Bob En Beppie",
+    "img": "https://archive.org/services/img/de-avonturen-van-bob-en-beppie-02"
+  },
+  {
+    "id": "s357",
+    "series": "De Avonturen Van Boro",
+    "img": "https://archive.org/services/img/de-avonturen-van-boro-01"
+  },
+  {
+    "id": "s358",
+    "series": "De Avonturen Van Kuiken I",
+    "img": "https://archive.org/services/img/de-avonturen-van-kuiken-i-01"
+  },
+  {
+    "id": "s359",
+    "series": "De Babysitters",
+    "img": "https://archive.org/services/img/de-babysitters-01"
+  },
+  {
+    "id": "s360",
+    "series": "De Ballade Van Dusty",
+    "img": "https://archive.org/services/img/de-ballade-van-dusty-01"
+  },
+  {
+    "id": "s361",
+    "series": "De Ballade Van Magdalena",
+    "img": "https://archive.org/services/img/de-ballade-van-magdalena-01"
+  },
+  {
+    "id": "s362",
+    "series": "De Balling (Lombard)",
+    "img": "https://archive.org/services/img/de-balling-lombard-01"
+  },
+  {
+    "id": "s363",
+    "series": "De Balling (Scratch)",
+    "img": "https://archive.org/services/img/de-balling-scratch-01"
+  },
+  {
+    "id": "s364",
+    "series": "De Ballonvaarder",
+    "img": "https://archive.org/services/img/de-ballonvaarder-02"
+  },
+  {
+    "id": "s365",
+    "series": "De Bamburgers",
+    "img": "https://archive.org/services/img/de-bamburgers-01"
+  },
+  {
+    "id": "s366",
+    "series": "De Banjers",
+    "img": "https://archive.org/services/img/de-banjers-01"
+  },
+  {
+    "id": "s367",
+    "series": "De Bank",
+    "img": "https://archive.org/services/img/de-bank-01"
+  },
+  {
+    "id": "s368",
+    "series": "De Banneling Van Tobago",
+    "img": "https://archive.org/services/img/de-banneling-van-tobago-01"
+  },
+  {
+    "id": "s369",
+    "series": "De Bannelingen Van De Aarde",
+    "img": "https://archive.org/services/img/de-bannelingen-van-de-aarde-01"
+  },
+  {
+    "id": "s370",
+    "series": "De Barbaren",
+    "img": "https://archive.org/services/img/de-barbaren-01"
+  },
+  {
+    "id": "s371",
+    "series": "De Beestenburcht",
+    "img": "https://archive.org/services/img/de-beestenburcht-01"
+  },
+  {
+    "id": "s372",
+    "series": "De Beproeving",
+    "img": "https://archive.org/services/img/de-beproeving-01"
+  },
+  {
+    "id": "s373",
+    "series": "De Beste Vijanden",
+    "img": "https://archive.org/services/img/de-beste-vijanden-01"
+  },
+  {
+    "id": "s374",
+    "series": "De Beul",
+    "img": "https://archive.org/services/img/de-beul-01"
+  },
+  {
+    "id": "s375",
+    "series": "De Beverpatroelje",
+    "img": "https://archive.org/services/img/de-beverpatroelje-01"
+  },
+  {
+    "id": "s376",
+    "series": "De Bewaker Van De Lans",
+    "img": "https://archive.org/services/img/de-bewaker-van-de-lans-01"
+  },
+  {
+    "id": "s377",
+    "series": "De Bibliotheek Van Ongeschreven Verhalen",
+    "img": "https://archive.org/services/img/de-bibliotheek-van-ongeschreven-verhalen-01"
+  },
+  {
+    "id": "s378",
+    "series": "De Biecht",
+    "img": "https://archive.org/services/img/de-biecht-01"
+  },
+  {
+    "id": "s379",
+    "series": "De Blauwbloezen",
+    "img": "https://archive.org/services/img/de-blauwbloezen-01"
+  },
+  {
+    "id": "s380",
+    "series": "De Blauwe Engel",
+    "img": "https://archive.org/services/img/de-blauwe-engel-01"
+  },
+  {
+    "id": "s381",
+    "series": "De Blauwe Hagedis",
+    "img": "https://archive.org/services/img/de-blauwe-hagedis-01"
+  },
+  {
+    "id": "s382",
+    "series": "De Blauwe Stripreeks",
+    "img": "https://archive.org/services/img/de-blauwe-stripreeks-01"
+  },
+  {
+    "id": "s383",
+    "series": "De Blauwe Verten",
+    "img": "https://archive.org/services/img/de-blauwe-verten-01"
+  },
+  {
+    "id": "s384",
+    "series": "De Bloedbruiloft",
+    "img": "https://archive.org/services/img/de-bloedbruiloft-01"
+  },
+  {
+    "id": "s385",
+    "series": "De Blondjes",
+    "img": "https://archive.org/services/img/de-blondjes-01"
+  },
+  {
+    "id": "s386",
+    "series": "De Bobbejaanstory",
+    "img": "https://archive.org/services/img/de-bobbejaanstory-01"
+  },
+  {
+    "id": "s387",
+    "series": "De Bosduivel",
+    "img": "https://archive.org/services/img/de-bosduivel-01"
+  },
+  {
+    "id": "s388",
+    "series": "De Boss",
+    "img": "https://archive.org/services/img/de-boss-01"
+  },
+  {
+    "id": "s389",
+    "series": "De Braziliaanse Droom",
+    "img": "https://archive.org/services/img/de-braziliaanse-droom-03"
+  },
+  {
+    "id": "s390",
+    "series": "De Brokkenmakers",
+    "img": "https://archive.org/services/img/de-brokkenmakers-01"
+  },
+  {
+    "id": "s391",
+    "series": "De Brozems",
+    "img": "https://archive.org/services/img/de-brozems-02"
+  },
+  {
+    "id": "s392",
+    "series": "De Buik Vol (De Moeders)",
+    "img": "https://archive.org/services/img/de-buik-vol-de-moeders-01a"
+  },
+  {
+    "id": "s393",
+    "series": "De Buurt",
+    "img": "https://archive.org/services/img/de-buurt-01"
+  },
+  {
+    "id": "s394",
+    "series": "De Buurtpolitie",
+    "img": "https://archive.org/services/img/de-buurtpolitie-01"
+  },
+  {
+    "id": "s395",
+    "series": "De Cowboys",
+    "img": "https://archive.org/services/img/de-cowboys-01"
+  },
+  {
+    "id": "s396",
+    "series": "De Crypte Van De Blauwe Mist",
+    "img": "https://archive.org/services/img/de-crypte-van-de-blauwe-mist-01"
+  },
+  {
+    "id": "s397",
+    "series": "De Cyclus Van Cyann",
+    "img": "https://archive.org/services/img/de-cyclus-van-cyann-02"
+  },
+  {
+    "id": "s398",
+    "series": "De Cyclus Van De Twee Horizonten",
+    "img": "https://archive.org/services/img/de-cyclus-van-de-twee-horizonten-01"
+  },
+  {
+    "id": "s399",
+    "series": "De Diva",
+    "img": "https://archive.org/services/img/de-diva-01"
+  },
+  {
+    "id": "s400",
+    "series": "De Dochter Van De Professor",
+    "img": "https://archive.org/services/img/de-dochter-van-de-professor-01"
+  },
+  {
+    "id": "s401",
+    "series": "De Doka Van Hercules",
+    "img": "https://archive.org/services/img/de-doka-van-hercules-01"
+  },
+  {
+    "id": "s402",
+    "series": "De Doldrieste Avonturen Van De Beuk",
+    "img": "https://archive.org/services/img/de-doldrieste-avonturen-van-de-beuk-01"
+  },
+  {
+    "id": "s403",
+    "series": "De Dominee",
+    "img": "https://archive.org/services/img/de-dominee-01"
+  },
+  {
+    "id": "s404",
+    "series": "De Donderpadjes",
+    "img": "https://archive.org/services/img/de-donderpadjes-01"
+  },
+  {
+    "id": "s405",
+    "series": "De Donkere Toren",
+    "img": "https://archive.org/services/img/de-donkere-toren-01"
+  },
+  {
+    "id": "s406",
+    "series": "De Doodsengel",
+    "img": "https://archive.org/services/img/de-doodsengel-01"
+  },
+  {
+    "id": "s407",
+    "series": "De Dorpsgek Van Schoonvergeten",
+    "img": "https://archive.org/services/img/de-dorpsgek-van-schoonvergeten-01"
+  },
+  {
+    "id": "s408",
+    "series": "De Draagbare Biebel",
+    "img": "https://archive.org/services/img/de-draagbare-biebel-04"
+  },
+  {
+    "id": "s409",
+    "series": "De Draak Van Mons",
+    "img": "https://archive.org/services/img/de-draak-van-mons-01"
+  },
+  {
+    "id": "s410",
+    "series": "De Drabbels",
+    "img": "https://archive.org/services/img/de-drabbels-01"
+  },
+  {
+    "id": "s411",
+    "series": "De Guitenstreken Van Kwik En Flupke",
+    "img": "https://archive.org/services/img/de-guitenstreken-van-kwik-en-flupke-b01"
+  },
+  {
+    "id": "s412",
+    "series": "De Jonge Jaren Van Blueberry",
+    "img": "https://archive.org/services/img/de-jonge-jaren-van-blueberry-01"
+  },
+  {
+    "id": "s413",
+    "series": "De Kinderen Van Dourpajon",
+    "img": "https://archive.org/services/img/de-kinderen-van-dourpajon-01"
+  },
+  {
+    "id": "s414",
+    "series": "De Kunst Van Morris",
+    "img": "https://archive.org/services/img/de-kunst-van-morris-01"
+  },
+  {
+    "id": "s415",
+    "series": "De Nieuwe Avonturen Van Bob Morane",
+    "img": "https://archive.org/services/img/de-nieuwe-avonturen-van-bob-morane-01"
+  },
+  {
+    "id": "s416",
+    "series": "De Nieuwe Avonturen Van Bruno Brazil",
+    "img": "https://archive.org/services/img/de-nieuwe-avonturen-van-bruno-brazil-01"
+  },
+  {
+    "id": "s417",
+    "series": "De Nieuwe Conny",
+    "img": "https://archive.org/services/img/de-nieuwe-conny-1990"
+  },
+  {
+    "id": "s418",
+    "series": "De Piraten Van Barataria",
+    "img": "https://archive.org/services/img/de-piraten-van-barataria-01"
+  },
+  {
+    "id": "s419",
+    "series": "De Terugkeer Van Dorian Gray",
+    "img": "https://archive.org/services/img/de-terugkeer-van-dorian-gray-01"
+  },
+  {
+    "id": "s420",
+    "series": "Detective Conan",
+    "img": "https://archive.org/services/img/detective-conan-01"
+  },
+  {
+    "id": "s421",
+    "series": "Die Onverbeterlijke Bas",
+    "img": "https://archive.org/services/img/die-onverbeterlijke-bas-01"
+  },
+  {
+    "id": "s422",
+    "series": "Dientje",
+    "img": "https://archive.org/services/img/dientje-nl-01"
+  },
+  {
+    "id": "s423",
+    "series": "Diepten",
+    "img": "https://archive.org/services/img/diepten-nl-01"
+  },
+  {
+    "id": "s424",
+    "series": "DirkJan",
+    "img": "https://archive.org/services/img/dirkjan-01"
+  },
+  {
+    "id": "s425",
+    "series": "Distel",
+    "img": "https://archive.org/services/img/distel-01"
+  },
+  {
+    "id": "s426",
+    "series": "Distelhof",
+    "img": "https://archive.org/services/img/distelhof-04"
+  },
+  {
+    "id": "s427",
+    "series": "Dit Al Gehoord",
+    "img": "https://archive.org/services/img/dit-al-gehoord-01"
+  },
+  {
+    "id": "s428",
+    "series": "Dit Paradijsje Houden We Geheim!",
+    "img": "https://archive.org/services/img/dit-paradijsje-houden-we-geheim-01"
+  },
+  {
+    "id": "s429",
+    "series": "Divine Right",
+    "img": "https://archive.org/services/img/divine-right-01"
+  },
+  {
+    "id": "s430",
+    "series": "Dixie Road",
+    "img": "https://archive.org/services/img/dixie-road-01"
+  },
+  {
+    "id": "s431",
+    "series": "Django Unchained",
+    "img": "https://archive.org/services/img/django-unchained-01"
+  },
+  {
+    "id": "s432",
+    "series": "Djengiz Khan",
+    "img": "https://archive.org/services/img/djengiz-khan-01"
+  },
+  {
+    "id": "s433",
+    "series": "Djinn",
+    "img": "https://archive.org/services/img/djinn-01"
+  },
+  {
+    "id": "s434",
+    "series": "Doc Savage",
+    "img": "https://archive.org/services/img/doc-savage-01"
+  },
+  {
+    "id": "s435",
+    "series": "Doc Silver",
+    "img": "https://archive.org/services/img/doc-silver-01"
+  },
+  {
+    "id": "s436",
+    "series": "Dock 21",
+    "img": "https://archive.org/services/img/dock-21-01"
+  },
+  {
+    "id": "s437",
+    "series": "Dode Hoek",
+    "img": "https://archive.org/services/img/dode-hoek-01"
+  },
+  {
+    "id": "s438",
+    "series": "Dodelijk Venetië",
+    "img": "https://archive.org/services/img/dodelijk-venetie-01"
+  },
+  {
+    "id": "s439",
+    "series": "Dodelijk Wapen",
+    "img": "https://archive.org/services/img/dodelijk-wapen-01"
+  },
+  {
+    "id": "s440",
+    "series": "Dodelijke Spelletjes",
+    "img": "https://archive.org/services/img/dodelijke-spelletjes-01"
+  },
+  {
+    "id": "s441",
+    "series": "Dodelijke Zone",
+    "img": "https://archive.org/services/img/dodelijke-zone-01"
+  },
+  {
+    "id": "s442",
+    "series": "Dodendans",
+    "img": "https://archive.org/services/img/dodendans-01"
+  },
+  {
+    "id": "s443",
+    "series": "Dodeneiland",
+    "img": "https://archive.org/services/img/dodeneiland-01"
+  },
+  {
+    "id": "s444",
+    "series": "Dodenwake",
+    "img": "https://archive.org/services/img/dodenwake-01"
+  },
+  {
+    "id": "s445",
+    "series": "Doe De Kiwi",
+    "img": "https://archive.org/services/img/doe-de-kiwi-01"
+  },
+  {
+    "id": "s446",
+    "series": "Doe Je Beest!",
+    "img": "https://archive.org/services/img/doe-je-beest-01"
+  },
+  {
+    "id": "s447",
+    "series": "Doebidoes",
+    "img": "https://archive.org/services/img/doebidoes-01"
+  },
+  {
+    "id": "s448",
+    "series": "Doerakken",
+    "img": "https://archive.org/services/img/doerakken-01"
+  },
+  {
+    "id": "s449",
+    "series": "Dog Man",
+    "img": "https://archive.org/services/img/dog-man-02"
+  },
+  {
+    "id": "s450",
+    "series": "Dogbert",
+    "img": "https://archive.org/services/img/dogbert-01"
+  },
+  {
+    "id": "s451",
+    "series": "Doggyguard",
+    "img": "https://archive.org/services/img/doggyguard-01"
+  },
+  {
+    "id": "s452",
+    "series": "Dokter Dolittle",
+    "img": "https://archive.org/services/img/dokter-dolittle-01"
+  },
+  {
+    "id": "s453",
+    "series": "Dokter Jekyll & Mister Hyde",
+    "img": "https://archive.org/services/img/dokter-jekyll--mister-hyde-01"
+  },
+  {
+    "id": "s454",
+    "series": "Dokter Justice",
+    "img": "https://archive.org/services/img/dokter-justice-01"
+  },
+  {
+    "id": "s455",
+    "series": "Dokter Monge",
+    "img": "https://archive.org/services/img/dokter-monge-01"
+  },
+  {
+    "id": "s456",
+    "series": "Dokter Zwitser",
+    "img": "https://archive.org/services/img/dokter-zwitser-01"
+  },
+  {
+    "id": "s457",
+    "series": "Dokters",
+    "img": "https://archive.org/services/img/dokters-01"
+  },
+  {
+    "id": "s458",
+    "series": "Dokus De Leerling",
+    "img": "https://archive.org/services/img/dokus-de-leerling-01"
+  },
+  {
+    "id": "s459",
+    "series": "Dolf Staal",
+    "img": "https://archive.org/services/img/dolf-staal-01"
+  },
+  {
+    "id": "s460",
+    "series": "Dolfi",
+    "img": "https://archive.org/services/img/dolfi-01"
+  },
+  {
+    "id": "s461",
+    "series": "Dolfje Weerwolfje",
+    "img": "https://archive.org/services/img/dolfje-weerwolfje-01"
+  },
+  {
+    "id": "s462",
+    "series": "Dolgedraaid",
+    "img": "https://archive.org/services/img/dolgedraaid-01"
+  },
+  {
+    "id": "s463",
+    "series": "Dombo",
+    "img": "https://archive.org/services/img/dombo-01"
+  },
+  {
+    "id": "s464",
+    "series": "Domino (Lombard)",
+    "img": "https://archive.org/services/img/domino-lombard-01"
+  },
+  {
+    "id": "s465",
+    "series": "Domino (Unicum)",
+    "img": "https://archive.org/services/img/domino-unicum-01"
+  },
+  {
+    "id": "s466",
+    "series": "Dommel",
+    "img": "https://archive.org/services/img/dommel-01"
+  },
+  {
+    "id": "s467",
+    "series": "Dommel (Tijdschrift)",
+    "img": "https://archive.org/services/img/dommel-tijdschrift-1989"
+  },
+  {
+    "id": "s468",
+    "series": "Dommeltje",
+    "img": "https://archive.org/services/img/dommeltje-01"
+  },
+  {
+    "id": "s469",
+    "series": "Don Lawrence Collection",
+    "img": "https://archive.org/services/img/don-lawrence-collection-07"
+  },
+  {
+    "id": "s470",
+    "series": "Don Quichot De La Mancha",
+    "img": "https://archive.org/services/img/don-quichot-de-la-mancha-01"
+  },
+  {
+    "id": "s471",
+    "series": "Don Vito",
+    "img": "https://archive.org/services/img/don-vito-01"
+  },
+  {
+    "id": "s472",
+    "series": "Donald Cash",
+    "img": "https://archive.org/services/img/donald-cash-01"
+  },
+  {
+    "id": "s473",
+    "series": "Donald Duck",
+    "img": "https://archive.org/services/img/donald-duck-1961-11"
+  },
+  {
+    "id": "s474",
+    "series": "Donito",
+    "img": "https://archive.org/services/img/donito-01"
+  },
+  {
+    "id": "s475",
+    "series": "Donjon Avondschemer",
+    "img": "https://archive.org/services/img/donjon-avondschemer-101"
+  },
+  {
+    "id": "s476",
+    "series": "Donjon Monsters",
+    "img": "https://archive.org/services/img/donjon-monsters-01"
+  },
+  {
+    "id": "s477",
+    "series": "Donjon Ochtendgloren",
+    "img": "https://archive.org/services/img/donjon-ochtendgloren-83"
+  },
+  {
+    "id": "s478",
+    "series": "Donjon Parade",
+    "img": "https://archive.org/services/img/donjon-parade-01"
+  },
+  {
+    "id": "s479",
+    "series": "Donjon Zenit",
+    "img": "https://archive.org/services/img/donjon-zenit-01"
+  },
+  {
+    "id": "s480",
+    "series": "Donkere Kamer",
+    "img": "https://archive.org/services/img/donkere-kamer-01"
+  },
+  {
+    "id": "s481",
+    "series": "Donnington",
+    "img": "https://archive.org/services/img/donnington-01"
+  },
+  {
+    "id": "s482",
+    "series": "Don't Panic!",
+    "img": "https://archive.org/services/img/dont-panic-01"
+  },
+  {
+    "id": "s483",
+    "series": "Dood En Opgegraven",
+    "img": "https://archive.org/services/img/dood-en-opgegraven-01"
+  },
+  {
+    "id": "s484",
+    "series": "Doodsbang",
+    "img": "https://archive.org/services/img/doodsbang-01"
+  },
+  {
+    "id": "s485",
+    "series": "Doodzonde",
+    "img": "https://archive.org/services/img/doodzonde-01"
+  },
+  {
+    "id": "s486",
+    "series": "Doolhof Van Eeden",
+    "img": "https://archive.org/services/img/doolhof-van-eeden-01"
+  },
+  {
+    "id": "s487",
+    "series": "Doomsday",
+    "img": "https://archive.org/services/img/doomsday-01"
+  },
+  {
+    "id": "s488",
+    "series": "Doorbraak",
+    "img": "https://archive.org/services/img/doorbraak-01"
+  },
+  {
+    "id": "s489",
+    "series": "Doornroosje",
+    "img": "https://archive.org/services/img/doornroosje-01"
+  },
+  {
+    "id": "s490",
+    "series": "Doortje Dartel",
+    "img": "https://archive.org/services/img/doortje-dartel-01"
+  },
+  {
+    "id": "s491",
+    "series": "Doortje Stoot",
+    "img": "https://archive.org/services/img/doortje-stoot-01"
+  },
+  {
+    "id": "s492",
+    "series": "Dorian Domber",
+    "img": "https://archive.org/services/img/dorian-domber-01"
+  },
+  {
+    "id": "s493",
+    "series": "Dorpsverhalen",
+    "img": "https://archive.org/services/img/dorpsverhalen-01"
+  },
+  {
+    "id": "s494",
+    "series": "Dossier X",
+    "img": "https://archive.org/services/img/dossier-x-02"
+  },
+  {
+    "id": "s495",
+    "series": "Dottie",
+    "img": "https://archive.org/services/img/dottie-01"
+  },
+  {
+    "id": "s496",
+    "series": "Double 7",
+    "img": "https://archive.org/services/img/double-7-01"
+  },
+  {
+    "id": "s497",
+    "series": "Doug",
+    "img": "https://archive.org/services/img/doug-01"
+  },
+  {
+    "id": "s498",
+    "series": "Douwe Dabbert",
+    "img": "https://archive.org/services/img/douwe-dabbert-00"
+  },
+  {
+    "id": "s499",
+    "series": "Down Under",
+    "img": "https://archive.org/services/img/down-under-01"
+  },
+  {
+    "id": "s500",
+    "series": "Dr. Molotow",
+    "img": "https://archive.org/services/img/dr-molotow-02"
+  },
+  {
+    "id": "s501",
+    "series": "Dr Watson",
+    "img": "https://archive.org/services/img/dr-watson-01"
+  },
+  {
+    "id": "s502",
+    "series": "Dubbelspion I Spy",
+    "img": "https://archive.org/services/img/dubbelspion-i-spy-nl-01"
+  },
+  {
+    "id": "s503",
+    "series": "Een Avontuur Van Condor",
+    "img": "https://archive.org/services/img/een-avontuur-van-condor-01"
+  },
+  {
+    "id": "s504",
+    "series": "Een Beeld Van Een Jongen",
+    "img": "https://archive.org/services/img/een-beeld-van-een-jongen-01"
+  },
+  {
+    "id": "s505",
+    "series": "Een Contract Met God",
+    "img": "https://archive.org/services/img/een-contract-met-god-01"
+  },
+  {
+    "id": "s506",
+    "series": "Een Doodgewone Waanzin",
+    "img": "https://archive.org/services/img/een-doodgewone-waanzin-01"
+  },
+  {
+    "id": "s507",
+    "series": "Een Dot Van Een Robot!",
+    "img": "https://archive.org/services/img/een-dot-van-een-robot-01"
+  },
+  {
+    "id": "s508",
+    "series": "Een Onderzoek Van Commissaris Crémèr",
+    "img": "https://archive.org/services/img/een-onderzoek-van-commissaris-cremer-01"
+  },
+  {
+    "id": "s509",
+    "series": "En Daarmee Basta",
+    "img": "https://archive.org/services/img/en-daarmee-basta-01"
+  },
+  {
+    "id": "s510",
+    "series": "Eppo",
+    "img": "https://archive.org/services/img/eppo-stripweekblad-1975"
+  },
+  {
+    "id": "s511",
+    "series": "Erik",
+    "img": "https://archive.org/services/img/erik-nl-01"
+  },
+  {
+    "id": "s512",
+    "series": "Familie Snoek, De",
+    "img": "https://archive.org/services/img/familie-snoek-de-nl-01"
+  },
+  {
+    "id": "s513",
+    "series": "Gen Barrevoets In Hiroshima",
+    "img": "https://archive.org/services/img/gen-barrevoets-in-hiroshima-01"
+  },
+  {
+    "id": "s514",
+    "series": "Giuseppe Bergman",
+    "img": "https://archive.org/services/img/giuseppe-bergman-01"
+  },
+  {
+    "id": "s515",
+    "series": "Gummi",
+    "img": "https://archive.org/services/img/gummi-nl-10"
+  },
+  {
+    "id": "s516",
+    "series": "Hemelzuilen",
+    "img": "https://archive.org/services/img/hemelzuilen-nl-01"
+  },
+  {
+    "id": "s517",
+    "series": "Het 'Bal Du Rat Mort'",
+    "img": "https://archive.org/services/img/het-bal-du-rat-mort-01"
+  },
+  {
+    "id": "s518",
+    "series": "Het Beeldverhaal In De U.S.A.",
+    "img": "https://archive.org/services/img/het-beeldverhaal-in-de-usa-01"
+  },
+  {
+    "id": "s519",
+    "series": "Het Beeldverhaal In Vlaanderen",
+    "img": "https://archive.org/services/img/het-beeldverhaal-in-vlaanderen-01"
+  },
+  {
+    "id": "s520",
+    "series": "Het Beest In De Mens",
+    "img": "https://archive.org/services/img/het-beest-in-de-mens-01"
+  },
+  {
+    "id": "s521",
+    "series": "Het Belang Van Ernst",
+    "img": "https://archive.org/services/img/het-belang-van-ernst-01"
+  },
+  {
+    "id": "s522",
+    "series": "Het Belang Van Limburg",
+    "img": "https://archive.org/services/img/het-belang-van-limburg-001"
+  },
+  {
+    "id": "s523",
+    "series": "Het Beste Van Mijzelf",
+    "img": "https://archive.org/services/img/het-beste-van-mijzelf-01"
+  },
+  {
+    "id": "s524",
+    "series": "Het Betere Werk",
+    "img": "https://archive.org/services/img/het-betere-werk-01"
+  },
+  {
+    "id": "s525",
+    "series": "Het Blad Van Barend De Beer (Tijdschrift)",
+    "img": "https://archive.org/services/img/het-blad-van-barend-de-beer-tijdschrift-1966"
+  },
+  {
+    "id": "s526",
+    "series": "Het Blauwe Chalet",
+    "img": "https://archive.org/services/img/het-blauwe-chalet-01"
+  },
+  {
+    "id": "s527",
+    "series": "Het Blijft Tobben",
+    "img": "https://archive.org/services/img/het-blijft-tobben-01"
+  },
+  {
+    "id": "s528",
+    "series": "Het Bloed Van De Porphyres",
+    "img": "https://archive.org/services/img/het-bloed-van-de-porphyres-01"
+  },
+  {
+    "id": "s529",
+    "series": "Het Bloed Van Lafaards",
+    "img": "https://archive.org/services/img/het-bloed-van-lafaards-01"
+  },
+  {
+    "id": "s530",
+    "series": "Het Bronzen Tijdperk",
+    "img": "https://archive.org/services/img/het-bronzen-tijdperk-01"
+  },
+  {
+    "id": "s531",
+    "series": "Het Contact",
+    "img": "https://archive.org/services/img/het-contact-01"
+  },
+  {
+    "id": "s532",
+    "series": "Het Doolhof Van De Draak",
+    "img": "https://archive.org/services/img/het-doolhof-van-de-draak-01"
+  },
+  {
+    "id": "s533",
+    "series": "Het Kunstbordeel",
+    "img": "https://archive.org/services/img/het-kunstbordeel-01"
+  },
+  {
+    "id": "s534",
+    "series": "Het Kwartet",
+    "img": "https://archive.org/services/img/het-kwartet-00"
+  },
+  {
+    "id": "s535",
+    "series": "Het Louis Trio",
+    "img": "https://archive.org/services/img/het-louis-trio-nl-01"
+  },
+  {
+    "id": "s536",
+    "series": "In De Ban Van De Ring",
+    "img": "https://archive.org/services/img/in-de-ban-van-de-ring-01"
+  },
+  {
+    "id": "s537",
+    "series": "Inspecteur Canardo",
+    "img": "https://archive.org/services/img/inspecteur-canardo-nl-00"
+  },
+  {
+    "id": "s538",
+    "series": "Jari",
+    "img": "https://archive.org/services/img/jari-nl-03-1"
+  },
+  {
+    "id": "s539",
+    "series": "Jojo",
+    "img": "https://archive.org/services/img/jojo-nl-01"
+  },
+  {
+    "id": "s540",
+    "series": "Karl May",
+    "img": "https://archive.org/services/img/karl-may-nl-06-1"
+  },
+  {
+    "id": "s541",
+    "series": "Kolk en De Wit, Betraden Hun Archief En Vonden Dit",
+    "img": "https://archive.org/services/img/kolk-en-de-wit-betraden-hun-archief-en-vonden-dit-nl-01"
+  },
+  {
+    "id": "s542",
+    "series": "Kollektie Cuento",
+    "img": "https://archive.org/services/img/kollektie-cuento-color-01"
+  },
+  {
+    "id": "s543",
+    "series": "Koning Bubu",
+    "img": "https://archive.org/services/img/koning-bubu-a01"
+  },
+  {
+    "id": "s544",
+    "series": "Kuifje Index",
+    "img": "https://archive.org/services/img/kuifje-index-00"
+  },
+  {
+    "id": "s545",
+    "series": "Kuifje Weekblad",
+    "img": "https://archive.org/services/img/kuifje-weekblad-1950"
+  },
+  {
+    "id": "s546",
+    "series": "Kung",
+    "img": "https://archive.org/services/img/kung-fu-01"
+  },
+  {
+    "id": "s547",
+    "series": "Kunstschooldag",
+    "img": "https://archive.org/services/img/kunstschooldag-01"
+  },
+  {
+    "id": "s548",
+    "series": "Kusjes Uit De Provincie",
+    "img": "https://archive.org/services/img/kusjes-uit-de-provincie-01"
+  },
+  {
+    "id": "s549",
+    "series": "Kutbeesten",
+    "img": "https://archive.org/services/img/kutbeesten-01"
+  },
+  {
+    "id": "s550",
+    "series": "Kwaïdan",
+    "img": "https://archive.org/services/img/kwaidan-01"
+  },
+  {
+    "id": "s551",
+    "series": "Kwinten",
+    "img": "https://archive.org/services/img/kwinten-01"
+  },
+  {
+    "id": "s552",
+    "series": "Kwynk",
+    "img": "https://archive.org/services/img/kwynk-01"
+  },
+  {
+    "id": "s553",
+    "series": "La Blonda",
+    "img": "https://archive.org/services/img/la-blonda-01"
+  },
+  {
+    "id": "s554",
+    "series": "La Contessa",
+    "img": "https://archive.org/services/img/la-contessa-01"
+  },
+  {
+    "id": "s555",
+    "series": "Luitenant Blueberry",
+    "img": "https://archive.org/services/img/luitenant-blueberry-01"
+  },
+  {
+    "id": "s556",
+    "series": "Lustige Kapoentjes, De",
+    "img": "https://archive.org/services/img/lustige-kapoentjes-de-nl-15-1"
+  },
+  {
+    "id": "s557",
+    "series": "Magazine 2000",
+    "img": "https://archive.org/services/img/magazine-2000-00"
+  },
+  {
+    "id": "s558",
+    "series": "Marshal Blueberry",
+    "img": "https://archive.org/services/img/marshal-blueberry-01"
+  },
+  {
+    "id": "s559",
+    "series": "Mickey Magazine",
+    "img": "https://archive.org/services/img/mickey-magazine-nl-001"
+  },
+  {
+    "id": "s560",
+    "series": "Mini",
+    "img": "https://archive.org/services/img/mini-mensjes-de-nl-01"
+  },
+  {
+    "id": "s561",
+    "series": "Modern Steel",
+    "img": "https://archive.org/services/img/modern-steel-nl-01"
+  },
+  {
+    "id": "s562",
+    "series": "Nick",
+    "img": "https://archive.org/services/img/nick-nl-01a"
+  },
+  {
+    "id": "s563",
+    "series": "Pats",
+    "img": "https://archive.org/services/img/pats-nl-01"
+  },
+  {
+    "id": "s564",
+    "series": "Pep",
+    "img": "https://archive.org/services/img/pep-Stripweekblad-1965"
+  },
+  {
+    "id": "s565",
+    "series": "Pep Parade",
+    "img": "https://archive.org/services/img/pep-parade-1tm10"
+  },
+  {
+    "id": "s566",
+    "series": "Pinkie Pienter, De Avonturen Van",
+    "img": "https://archive.org/services/img/pinkie-pienter-de-avonturen-van-nl-01-1"
+  },
+  {
+    "id": "s567",
+    "series": "Prof Créghel",
+    "img": "https://archive.org/services/img/prof-creghel-03"
+  },
+  {
+    "id": "s568",
+    "series": "Robbedoes Weekblad",
+    "img": "https://archive.org/services/img/robbedoes-weekblad-1943"
+  },
+  {
+    "id": "s569",
+    "series": "Roze Bottel",
+    "img": "https://archive.org/services/img/roze-bottel-00"
+  },
+  {
+    "id": "s570",
+    "series": "Spaghetti",
+    "img": "https://archive.org/services/img/spaghetti-nl-01"
+  },
+  {
+    "id": "s571",
+    "series": "Steve Drake",
+    "img": "https://archive.org/services/img/steve-drake-nl-01-1"
+  },
+  {
+    "id": "s572",
+    "series": "Strip Express",
+    "img": "https://archive.org/services/img/strip-express-nl-01"
+  },
+  {
+    "id": "s573",
+    "series": "Super Comics",
+    "img": "https://archive.org/services/img/super-comics-nl-2401"
+  },
+  {
+    "id": "s574",
+    "series": "Super Kuifje",
+    "img": "https://archive.org/services/img/super-kuifje-01"
+  },
+  {
+    "id": "s575",
+    "series": "Surcouf",
+    "img": "https://archive.org/services/img/surcouf-nl-01-1"
+  },
+  {
+    "id": "s576",
+    "series": "'t Is Naar De Bliksem",
+    "img": "https://archive.org/services/img/t-is-naar-de-bliksem-01"
+  },
+  {
+    "id": "s577",
+    "series": "Tannenberg",
+    "img": "https://archive.org/services/img/tannenberg-00"
+  },
+  {
+    "id": "s578",
+    "series": "The Beatles (Blloan)",
+    "img": "https://archive.org/services/img/the-beatles-blloan-01"
+  },
+  {
+    "id": "s579",
+    "series": "The Bridge",
+    "img": "https://archive.org/services/img/the-bridge-01"
+  },
+  {
+    "id": "s580",
+    "series": "The Cool Bros",
+    "img": "https://archive.org/services/img/the-cool-bros-01"
+  },
+  {
+    "id": "s581",
+    "series": "Tom Poes",
+    "img": "https://archive.org/services/img/tom-poes-het-geheim-der-blauwe-aarde"
+  },
+  {
+    "id": "s582",
+    "series": "Tommy Gun",
+    "img": "https://archive.org/services/img/tommy-gun-nl-01"
+  },
+  {
+    "id": "s583",
+    "series": "Vader Brown",
+    "img": "https://archive.org/services/img/vader-brown-01"
+  },
+  {
+    "id": "s584",
+    "series": "Van Dorpswege",
+    "img": "https://archive.org/services/img/van-dorpswege-01"
+  },
+  {
+    "id": "s585",
+    "series": "Welkom In Boboland",
+    "img": "https://archive.org/services/img/welkom-in-boboland-01"
+  },
+  {
+    "id": "s586",
+    "series": "Yoko Tsuno",
+    "img": "https://archive.org/services/img/yoko-tsuno-nl-02"
+  }
+]

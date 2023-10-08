@@ -1,10 +1,10 @@
 function Title() {
   return (
-    <div className='home-page'>
+    <div className='container home-page'>
       <div className='container'>
         <h1>Dutch Comics</h1>
       </div>
-      <div className='description'>
+      <div className='container description'>
         <p>
           Comic books in the Dutch language. <br />
           Many are translations of other countries' comics, <br />

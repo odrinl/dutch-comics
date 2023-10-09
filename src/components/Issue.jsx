@@ -10,10 +10,11 @@ function SeriesItems() {
   const selectedIssue = data.find((issue) => String(issue.id) === String(id));
 
   return (
-    <div>
-      <h1>Selected Issue:</h1>
-      <div className='container card'>
-        {selectedIssue ? (
+    <div className='container issue'>
+      <h2>Selected Issue:</h2>
+
+      {selectedIssue ? (
+        <div className='container card'>
           <div className='container inner-card'>
             <div
               className='container icon'
@@ -25,9 +26,11 @@ function SeriesItems() {
                 <RiFileList3Line />
               )}
             </div>
-            <div className='series'>
-              <img src={selectedIssue.img} alt={selectedIssue.title} />
-              <div className='container'>
+            <div className='container info'>
+              <div id='issue-image'>
+                <img src={selectedIssue.img} alt={selectedIssue.title} />
+              </div>
+              <div className='container other-info'>
                 Title: {selectedIssue.title}
                 <a
                   href={selectedIssue.pdfLink}
@@ -39,10 +42,10 @@ function SeriesItems() {
               </div>
             </div>
           </div>
-        ) : (
-          <p>No issue found with the ID: {id}</p>
-        )}
-      </div>
+        </div>
+      ) : (
+        <p>No issue found with the ID: {id}</p>
+      )}
     </div>
   );
 }

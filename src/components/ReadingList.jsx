@@ -12,21 +12,20 @@ function ReadingList() {
   const addedIssuesData = data.filter((item) => addedIssues.includes(item.id));
 
   return (
-    <div className='back'>
-      <button className='' onClick={() => navigate(-1)}>
-        &lt;&lt; &nbsp;Go Back
-      </button>
+    <div className='reading-list'>
+      <div className='back'>
+        <button className='' onClick={() => navigate(-1)}>
+          &lt;&lt; &nbsp;Go Back
+        </button>
+      </div>
       <h2>Reading List</h2>
-      <div className='container'>
-        <br />
 
-        <div className='container'>
-          {addedIssuesData.map((item) => (
-            <div className='container'>
-              <IssueCard key={item.id} item={item} series={item.series} />
-            </div>
-          ))}
-        </div>
+      <br />
+
+      <div className='container '>
+        {addedIssuesData.map((item) => (
+          <IssueCard key={item.id} item={item} series={item.series} />
+        ))}
       </div>
     </div>
   );

@@ -5,7 +5,7 @@ import { RiFileList3Fill, RiFileList3Line } from 'react-icons/ri';
 function IssueCard({ item, series }) {
   const { addedIssues, toggleLike } = useAddContext();
   return (
-    <div className='container'>
+    <>
       <div className='series'>
         <div className='reading-icon' onClick={() => toggleLike(item.id)}>
           <i className='container icon'>
@@ -22,7 +22,7 @@ function IssueCard({ item, series }) {
           <Link to={`/series/${series}/${item.id}`}>{item.issue}</Link>
         </div>
       </div>
-    </div>
+    </>
   );
 }
 

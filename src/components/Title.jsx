@@ -1,6 +1,6 @@
 function Title() {
   return (
-    <div className='container home-page'>
+    <div className='home-page'>
       <div className='container'>
         <h1>Dutch Comics</h1>
       </div>
@@ -20,7 +20,7 @@ function Title() {
           </a>
         </p>
       </div>
-      <div className='container'>
+      <div className='container image'>
         <img
           src='https://www.lambiek.net/artists/image/artefacts/1970_tijdschriften/pepcrew.jpg'
           alt='pepcrew'

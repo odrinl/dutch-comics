@@ -1,3 +1,4 @@
+/* Reset */
 body,
 a {
   width: 100%;
@@ -35,6 +36,7 @@ nav {
 nav a {
   margin: 0 10px;
   font-size: 18px;
+  border-bottom: 2px solid transparent;
 }
 
 .active {
@@ -50,12 +52,10 @@ nav a.active {
   z-index: 1;
 }
 
-nav a {
-  border-bottom: 2px solid transparent;
-}
-
 .navbar {
+  max-width: 1200px;
   align-items: center;
+  padding: 0 20px;
 }
 
 div.series {
@@ -63,23 +63,13 @@ div.series {
   border-radius: 10px;
 }
 
-header {
-  text-align: center;
-  background-color: #f7f7f7;
-  padding: 20px 0;
-}
-
-header h1 {
-  font-size: 36px;
-  font-weight: bold;
-  color: #000;
-  text-align: center;
-}
-
 .main-area {
   padding: 20px;
 }
 
+.home-page {
+  width: 100%;
+}
 .home-page img {
   margin: 2rem;
 }
@@ -88,22 +78,30 @@ header h1 {
   font-size: large;
   font-weight: bolder;
 }
+.inner-card {
+  flex-direction: column;
+  position: relative;
+}
+
+.other-info {
+  flex-direction: column;
+}
 
 button {
-  background-color: #ff0000;
+  background-color: #a9a5a5;
   color: #fff;
   border: none;
   padding: 10px 20px;
   font-size: 18px;
   cursor: pointer;
   transition: background-color 0.3s ease;
+  border-radius: 10px;
 }
 
 button:hover {
-  background-color: #990000;
+  background-color: #615f5f;
 }
 
-/* Style links as comic book speech bubbles */
 a {
   padding: 5px 15px;
   background-color: #ffcc00;
@@ -126,28 +124,12 @@ a:hover {
   border-bottom: #ff9900 2px solid;
 }
 
-button {
-  background-color: #ff0000;
-  color: #fff;
-  border: none;
-  padding: 10px 20px;
-  font-size: 18px;
-  cursor: pointer;
-  transition: background-color 0.3s ease;
-  border-radius: 10px;
-  margin-top: 10px;
-}
-
-button:hover {
-  background-color: #990000;
-}
-
 .container {
   display: flex;
+  box-sizing: border-box;
   flex-wrap: wrap;
   justify-content: center;
   max-width: 1200px;
-  margin: 0 auto;
   border: 2px dashed rgb(0, 255, 65);
 }
 
@@ -155,6 +137,7 @@ button:hover {
   text-align: center;
   flex-direction: column;
   align-items: center;
+  width: 100%;
 }
 
 .container.back {
@@ -173,6 +156,11 @@ button:hover {
   text-align: center;
 }
 
+.image img {
+  max-width: 100%;
+  height: auto;
+}
+
 .item {
   display: flex;
   margin: 0.3rem;
@@ -184,6 +172,11 @@ button:hover {
   cursor: pointer;
   font-size: 2rem;
   justify-self: flex-end;
+}
+
+.issue {
+  width: 100%;
+  flex-direction: column;
 }
 
 .container.icon {
@@ -220,45 +213,143 @@ button:hover {
   margin: 0 auto;
   justify-content: center;
 }
+.main-area,
+.navbar {
+  margin: 0 auto;
+}
+.search,
+.searchbox,
+.search-block,
+.reading-list,
+.top,
+.navbar {
+  width: 100%;
+}
+.search {
+  border-top: 4px solid #000;
+}
+.searchbox {
+  flex-direction: row;
+}
+.search-results {
+  flex-direction: column;
+  margin-top: 2rem;
+  text-align: left;
+}
 
-.search-form {
-  display: flex;
-  justify-content: center;
+.search-result {
+  justify-content: flex-start;
+  height: 5em;
   align-items: center;
-  margin: 20px 0;
-  align-items: baseline;
+  width: 100%;
+  margin: 0.3rem;
+  flex-wrap: nowrap;
 }
 
-.search-form input[type='text'] {
-  padding: 10px;
-  font-size: 16px;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  width: 250px;
-  margin-right: 10px;
-  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+#search-image {
+  height: 100%;
+  width: auto;
+  box-sizing: border-box;
+}
+#search-image img {
+  height: 100%;
+  width: auto;
+  padding: 0 0.5rem;
 }
 
-.search-form button {
-  padding: 10px 15px;
-  font-size: 16px;
-  background-color: #007bff;
+#search-button {
+  background-color: #35a539;
   color: #fff;
-  border: none;
-  border-radius: 5px;
   cursor: pointer;
-  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+  box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.2);
+  margin-left: 2rem;
 }
 
-.search-form button:hover {
-  background-color: #0056b3;
+#search-button:hover {
+  background-color: #30ac32;
+}
+
+/* shaping the box */
+.searchbox {
+  height: 48px;
+  max-width: 561px;
+}
+.searchbox input[type='search'] {
+  border: 2px solid rgb(90, 90, 90);
+  border-radius: 24px;
+  height: 100%;
+  width: 100%;
+}
+
+/* Styling each component */
+.searchbox svg {
+  fill: rgb(90, 90, 90);
+  height: 36px;
+  width: 36px;
+}
+.searchbox input[type='search'] {
+  color: rgb(90, 90, 90);
+  font-family: 'Noto Sans', Verdana, sans-serif;
+  font-size: 1rem;
+}
+.searchbox input[type='search']::placeholder {
+  color: rgb(148, 148, 148);
+  opacity: 1; /* to override the default of Firefox */
+}
+
+/* positioning inner elements */
+.searchbox {
+  position: relative;
+}
+.searchbox svg {
+  position: absolute;
+  left: 12px;
+  top: 6px;
+  bottom: 6px;
+}
+.searchbox input[type='search'] {
+  padding-left: 52px;
+  padding-right: 12px;
+}
+input[type='search']::-webkit-search-decoration {
+  -webkit-appearance: none; /* Remove the left padding inside the box for Safari; see https://github.com/filipelinhares/ress/blob/master/ress.css */
+}
+
+/* Ensuring that tapping the icon focuses the search box */
+.searchbox svg {
+  z-index: -1;
+}
+.searchbox input[type='search'] {
+  background: transparent;
+}
+
+/* Styling focus state */
+.searchbox input[type='search']:focus {
+  border-color: rgb(69, 159, 189);
+  box-shadow: 0px 0px 5px rgb(69, 159, 189);
+  outline: 1px solid transparent; /* fallback for forced color modes; see https://www.sarasoueidan.com/blog/focus-indicators/#tips-for-styling-focus-indicators */
+  /* it also removes the default focus ring imposed by browsers */
+}
+
+/* Custom-style the delete button that appears once the user enters text (Chrome and Safari only); see https://css-tricks.com/webkit-html5-search-inputs/#aa-styling-search-graphical-widgets */
+.searchbox input[type='search']::-webkit-search-cancel-button {
+  /* Remove default */
+  -webkit-appearance: none;
+  /* Now your own custom styles */
+  background-image: url("data:image/svg+xml, %3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='rgb(148, 148, 148)' %3E%3Cpath d='M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z' /%3E%3C/svg%3E%0A");
+  height: 24px;
+  width: 24px;
+}
+
+input[type='search'] {
+  -webkit-tap-highlight-color: transparent; /* Otherwise, tapping will show a flash of grey background on iOS Safari; see https://twitter.com/masa_kudamatsu/status/1429387005658468356 */
 }
 
 .footer {
   background-color: #e8e8e8;
   text-align: center;
-  padding: 30px 0;
-  margin-top: 20px;
+  padding: 50px 0;
+  margin-top: 40px;
   border-top: 4px solid #000;
 }
 
@@ -271,6 +362,13 @@ button:hover {
 @media (max-width: 840px) {
   .all-links {
     margin-top: 10px;
+  }
+  .main-area {
+    padding: 0;
+  }
+
+  #search-button {
+    margin-left: 0;
   }
 }
 
@@ -285,9 +383,5 @@ button:hover {
   .container.title {
     display: flex;
     flex-wrap: wrap;
-  }
-  .description img {
-    width: 100%;
-    overflow: none;
   }
 }

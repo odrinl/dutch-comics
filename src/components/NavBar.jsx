@@ -3,9 +3,9 @@ import { RiFileList3Fill } from 'react-icons/ri';
 
 function NavBar() {
   return (
-    <nav className='container'>
+    <nav className='top'>
       <div className='container navbar'>
-        <div className='container home'>
+        <div className='home'>
           <Link to={'/'}>
             <h2>Dutch Comics</h2>
           </Link>

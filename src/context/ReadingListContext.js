@@ -1,10 +1,4 @@
-import React, {
-  createContext,
-  useContext,
-  useState,
-  useCallback,
-  useEffect,
-} from 'react';
+import React, { createContext, useContext, useState, useEffect } from 'react';
 
 // Create a context for your ReadingList
 const ReadingListContext = createContext();

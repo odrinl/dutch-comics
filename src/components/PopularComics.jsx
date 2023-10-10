@@ -30,7 +30,7 @@ function PopularComics() {
   );
 
   if (page1Data && page2Data && page3Data) {
-    // Step 1: Extract identifiers from the JSON response for all three pages
+    // Extract identifiers from the JSON response for all three pages
     const page1Identifiers = page1Data.response.docs.map(
       (doc) => doc.identifier
     );
@@ -46,12 +46,10 @@ function PopularComics() {
       ...page3Identifiers,
     ];
 
-    // Step 2: Filter out identifiers that contain censor words
     const filteredIdentifiers = allIdentifiers.filter((identifier) => {
       return !censorArray.some((word) => identifier.includes(word));
     });
 
-    // Step 3: Filter and map the results
     const filteredIssues = [];
     const uniqueSeries = [];
 

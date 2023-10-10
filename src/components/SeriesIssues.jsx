@@ -2,12 +2,11 @@ import { useParams } from 'react-router-dom';
 import data from '../data/unique_issues.json';
 import IssueCard from './IssueCard';
 import { useNavigate } from 'react-router-dom';
+import UpButton from './UpButton';
 
 function SeriesIssues() {
   const navigate = useNavigate();
   const { series } = useParams();
-
-  // Filter the data to get items with the matching series
   const filteredData = data.filter((item) => item.series === series);
 
   return (
@@ -18,6 +17,7 @@ function SeriesIssues() {
         </button>
       </div>
       <h2>Series: {series}</h2>
+      <UpButton />
       <div className='container'>
         {filteredData.map((item) => (
           <IssueCard key={item.id} item={item} series={series} />

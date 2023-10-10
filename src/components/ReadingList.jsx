@@ -8,7 +8,6 @@ function ReadingList() {
   const navigate = useNavigate();
   const { addedIssues } = useAddContext();
 
-  // Filter the issue data to only include the added issues
   const addedIssuesData = data.filter((item) => addedIssues.includes(item.id));
 
   return (

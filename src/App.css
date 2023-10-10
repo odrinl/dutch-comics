@@ -1,4 +1,4 @@
-/* fonts.css */
+/* font Comic Sans */
 @import url('https://fonts.googleapis.com/css2?family=Comic+Sans+MS&display=swap');
 
 /* Reset */
@@ -26,12 +26,12 @@ a:hover {
 }
 
 .liked {
-  background-color: rgb(241, 109, 223);
+  background-color: #ff9900;
   border-radius: 10%;
 }
 
 .liked:hover {
-  background-color: rgb(181, 84, 168);
+  background-color: #ff9900;
 }
 
 h1,
@@ -43,7 +43,7 @@ h2 {
 h1 {
   font-size: 3em;
   font-weight: 900;
-  color: #30ab32;
+  color: #e972bf;
 }
 
 h2 {
@@ -73,12 +73,12 @@ nav a {
 }
 
 .active {
-  background-color: rgb(215, 43, 198);
+  background-color: #06bbd4;
   font-weight: bold;
 }
 
 nav a.active {
-  background-color: #2ad424;
+  background-color: #06bbd4;
   color: #fff;
   border-radius: 10px;
   padding: 5px 10px;
@@ -96,7 +96,7 @@ nav a.active {
 #brand-name {
   display: flex;
   justify-self: flex-start;
-  border: 2px dashed #000;
+  border: 2px dashed #00000084;
   border-radius: 10px;
 
   box-shadow: 1px 4px 5px 2px rgb(0 0 0 / 15%);
@@ -111,11 +111,11 @@ nav a.active {
 }
 
 #brand-name {
-  background-color: white;
+  background-color: #06bbd4;
 }
 
 #brand-name:hover {
-  background-color: rgb(241, 109, 223);
+  background-color: white;
 }
 
 .home {
@@ -133,6 +133,7 @@ div.series {
 
 .main-area {
   padding: 20px;
+  padding-top: 0;
 }
 
 .home-page {
@@ -140,7 +141,7 @@ div.series {
 }
 
 .home-page img {
-  margin: 2rem;
+  margin: 0.5rem 2rem 0rem 2rem;
 }
 
 .home a {
@@ -148,7 +149,7 @@ div.series {
 }
 
 .home a:hover {
-  background-color: cyan;
+  background-color: #06bbd4;
 }
 
 .description {
@@ -171,20 +172,9 @@ div.series {
   flex-direction: column;
 }
 
-.other-info {
-  flex-direction: column;
-  justify-content: space-evenly;
-  text-align: center;
-  background-color: white;
-  margin-left: 0.5rem;
-}
-
-.other-info div {
-  padding: 10px 0;
-}
-
 button {
   background-color: #a9a5a5;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
   color: #fff;
   border: none;
   padding: 10px 20px;
@@ -198,14 +188,36 @@ button:hover {
   background-color: #615f5f;
 }
 
+.other-info {
+  flex-direction: column;
+  justify-content: space-evenly;
+  text-align: center;
+  background-color: white;
+  margin-left: 0.5rem;
+}
+
+.other-info div {
+  padding: 10px 0;
+}
+
+.other-info button {
+  background-color: #ffcc00;
+  color: black;
+}
+
+.other-info button:hover {
+  background-color: #ff9900;
+}
+
 .description a {
+  color: #7852bf;
+  padding: 0;
   background-color: white;
 }
 
 .description a:hover {
   background-color: white;
-  border-radius: 0;
-  border-bottom: #ff9900 2px solid;
+  color: black;
 }
 
 .container.title {
@@ -264,7 +276,8 @@ button:hover {
 }
 
 .home-page h1 {
-  margin-bottom: 15px;
+  margin-top: 4rem;
+  margin-bottom: 1rem;
 }
 
 .series {
@@ -313,6 +326,7 @@ button:hover {
 
 .search {
   margin-top: 1rem;
+  position: relative;
 }
 
 .search h2 {
@@ -325,6 +339,7 @@ button:hover {
 
 .search-block {
   margin-top: 1.2rem;
+  margin-bottom: 0.3rem;
 }
 
 .searchbox {
@@ -332,11 +347,17 @@ button:hover {
 }
 
 .search-results {
+  position: absolute;
+  top: 100%;
+  left: 0;
   flex-direction: column;
-  margin-top: 2rem;
+  background-color: white;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding-top: 2rem;
   text-align: left;
   width: 100%;
   align-content: center;
+  z-index: 1;
 }
 
 .container.search-result {
@@ -374,29 +395,14 @@ button:hover {
 
 .search-block {
   flex-direction: column;
-
   align-items: center;
 }
 
-#search-button {
-  background-color: #35a539;
-  color: #fff;
-  cursor: pointer;
-  box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.2);
-
-  margin-bottom: 5px;
-  width: min-content;
-  margin-top: 1rem;
-}
-
-#search-button:hover {
-  background-color: #30ac32;
-}
-
-/* shaping the box */
+/* Search like in a Google */
 .searchbox {
   height: 48px;
   max-width: 561px;
+  box-sizing: initial;
 }
 
 .searchbox input[type='search'] {
@@ -404,13 +410,6 @@ button:hover {
   border-radius: 24px;
   height: 100%;
   width: 100%;
-}
-
-/* Styling each component */
-.searchbox svg {
-  fill: rgb(90, 90, 90);
-  height: 36px;
-  width: 36px;
 }
 
 .searchbox input[type='search'] {
@@ -425,12 +424,15 @@ button:hover {
   /* to override the default of Firefox */
 }
 
-/* positioning inner elements */
 .searchbox {
   position: relative;
 }
 
 .searchbox svg {
+  fill: rgb(90, 90, 90);
+  height: 36px;
+  width: 36px;
+  cursor: pointer;
   position: absolute;
   left: 12px;
   top: 6px;
@@ -438,7 +440,8 @@ button:hover {
 }
 
 .searchbox input[type='search'] {
-  padding-left: 52px;
+  margin-left: 52px;
+  padding-left: 1rem;
   padding-right: 12px;
 }
 
@@ -447,19 +450,15 @@ input[type='search']::-webkit-search-decoration {
   /* Remove the left padding inside the box for Safari; see https://github.com/filipelinhares/ress/blob/master/ress.css */
 }
 
-/* Ensuring that tapping the icon focuses the search box */
-.searchbox svg {
-  z-index: -1;
-}
-
-.searchbox input[type='search'] {
-  background: transparent;
+.searchbox svg:hover {
+  fill: #06bbd4;
+  border-radius: 10%;
 }
 
 /* Styling focus state */
 .searchbox input[type='search']:focus {
-  border-color: rgb(69, 159, 189);
-  box-shadow: 0px 0px 5px rgb(69, 159, 189);
+  border-color: #06bbd4;
+  box-shadow: 0 0 5px #06bbd4;
   outline: 1px solid transparent;
   /* fallback for forced color modes; see https://www.sarasoueidan.com/blog/focus-indicators/#tips-for-styling-focus-indicators */
   /* it also removes the default focus ring imposed by browsers */
@@ -480,23 +479,30 @@ input[type='search'] {
   /* Otherwise, tapping will show a flash of grey background on iOS Safari; see https://twitter.com/masa_kudamatsu/status/1429387005658468356 */
 }
 
-.footer {
+footer {
   background-color: #e8e8e8;
   text-align: center;
   padding: 50px 0;
-  margin-top: 40px;
+  margin-top: 25px;
 }
 
-.footer a {
-  color: #000;
+footer a {
+  color: #7852bf;
   font-weight: bold;
+  background-color: #e8e8e8;
+}
+
+footer a:hover {
+  background-color: #e8e8e8;
+  border-radius: 0;
+  color: black;
 }
 
 .top-button {
   position: fixed;
   bottom: 5px;
   right: 5px;
-  background-color: #e02ac8;
+  background-color: #06bbd4;
   color: #fff;
   border: none;
   border-radius: 5px;
@@ -512,7 +518,7 @@ input[type='search'] {
 }
 
 .top-button:hover {
-  background-color: #e02ac8;
+  background-color: #0596a9;
 }
 
 /* Media Queries */

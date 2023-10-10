@@ -1,9 +1,7 @@
 import React, { createContext, useContext, useState, useEffect } from 'react';
 
-// Create a context for your ReadingList
 const ReadingListContext = createContext();
 
-// Create a custom hook to access the context
 export const useAddContext = () => {
   return useContext(ReadingListContext);
 };

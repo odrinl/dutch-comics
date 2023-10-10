@@ -18,7 +18,6 @@ const UpButton = () => {
     });
   };
 
-  // Attach a scroll event listener to show/hide the button
   window.addEventListener('scroll', handleScroll);
 
   return (

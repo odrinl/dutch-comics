@@ -22,7 +22,8 @@ To sort by series a huge database of vintage comics in Dutch, located in the Int
 - Translation of selected regions in pdf
 
 ### Design
-Design I was trying to do in a funny style of vintage colourful comics. 
+
+I was trying to do design of my app in a funny style of vintage colourful comics. 
 
 ## Project requirements
 

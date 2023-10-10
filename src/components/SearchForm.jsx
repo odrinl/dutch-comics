@@ -68,7 +68,7 @@ const SearchForm = () => {
       </div>
       <div className='container search-results'>
         {searchResults.map((item) => (
-          <SearchResult key={item.id} item={item} />
+          <SearchResult key={item.id} item={item} series={item.series} />
         ))}
       </div>
     </div>

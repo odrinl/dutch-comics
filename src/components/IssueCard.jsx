@@ -10,7 +10,7 @@ function IssueCard({ item, series }) {
         <div className='reading-icon' onClick={() => toggleLike(item.id)}>
           <i className='container icon'>
             {addedIssues.includes(item.id) ? (
-              <RiFileList3Fill />
+              <RiFileList3Fill className='liked' />
             ) : (
               <RiFileList3Line />
             )}

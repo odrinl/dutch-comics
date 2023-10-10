@@ -1,3 +1,6 @@
+/* fonts.css */
+@import url('https://fonts.googleapis.com/css2?family=Comic+Sans+MS&display=swap');
+
 /* Reset */
 body,
 a {
@@ -8,6 +11,27 @@ a {
   font-size: medium;
   text-decoration: none;
   color: #333;
+}
+
+a {
+  padding: 5px 15px;
+  background-color: #ffcc00;
+  color: #000;
+  border-radius: 8px;
+  transition: background-color 0.3s ease;
+}
+
+a:hover {
+  background-color: #ff9900;
+}
+
+.liked {
+  background-color: rgb(241, 109, 223);
+  border-radius: 10%;
+}
+
+.liked:hover {
+  background-color: rgb(181, 84, 168);
 }
 
 h1,
@@ -34,7 +58,7 @@ h2 {
   flex-wrap: wrap;
   justify-content: center;
   max-width: 1200px;
-  /* border: 2px dashed rgb(0, 255, 65); */
+  border: 2px dashed rgb(0, 255, 65);
 }
 
 nav {
@@ -174,18 +198,6 @@ button:hover {
   background-color: #615f5f;
 }
 
-a {
-  padding: 5px 15px;
-  background-color: #ffcc00;
-  color: #000;
-  border-radius: 8px;
-  transition: background-color 0.3s ease;
-}
-
-a:hover {
-  background-color: #ff9900;
-}
-
 .description a {
   background-color: white;
 }
@@ -323,15 +335,29 @@ a:hover {
   flex-direction: column;
   margin-top: 2rem;
   text-align: left;
+  width: 100%;
+  align-content: center;
 }
 
-.search-result {
-  justify-content: flex-start;
+.container.search-result {
   height: 5em;
   align-items: center;
-  width: 100%;
+  justify-content: flex-start;
   margin: 0.3rem;
   flex-wrap: nowrap;
+}
+
+.container.search-result a {
+  width: initial;
+  display: flex;
+  text-align: center;
+  flex-wrap: nowrap;
+
+  padding: 5px;
+}
+
+#result-title {
+  display: flex;
 }
 
 #search-image {

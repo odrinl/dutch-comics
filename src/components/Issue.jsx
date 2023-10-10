@@ -29,7 +29,7 @@ function SeriesItems() {
                 onClick={() => toggleLike(selectedIssue.id)}
               >
                 {addedIssues.includes(selectedIssue.id) ? (
-                  <RiFileList3Fill />
+                  <RiFileList3Fill className='liked' />
                 ) : (
                   <RiFileList3Line />
                 )}

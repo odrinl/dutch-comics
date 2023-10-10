@@ -4,9 +4,10 @@ Link to the app - https://dutchcomics.netlify.app/
 
 ## My ideas
 
-To sort by series a huge database of vintage comics in Dutch, located in the Internet archive. Make it more convenient to use and to give people easy access the separate issues of every series in pdf format.
+To sort by series a huge database of vintage comics in Dutch, located in the Internet Archive. Make it more convenient to use and to give people easy access the separate issues of every series in pdf format.
 
 ### MUST-HAVE
+
 1. Home page with title, footer and all series
 2. Page with issues in selected series
 3. Page of issue with link to pdf, which opens in additional window
@@ -14,6 +15,7 @@ To sort by series a huge database of vintage comics in Dutch, located in the Int
 5. Responsive design (media-queries)
    
 ### NICE-TO-HAVE
+
 - Make tests for the application
 - Developer page with possibility to leave a feedback
 - Section with popular comics

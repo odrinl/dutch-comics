@@ -21,7 +21,7 @@ To sort by series a huge database of vintage comics in Dutch, located in the Int
 - Load pdf inside the app with option of saving the last position in memory
 - Translation of selected regions in pdf
 
-###Design
+### Design
 Design I was trying to do in a funny style of vintage colourful comics. 
 
 ## Project requirements

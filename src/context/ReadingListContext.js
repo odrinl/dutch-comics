@@ -1,4 +1,10 @@
-import React, { createContext, useContext, useState, useCallback } from 'react';
+import React, {
+  createContext,
+  useContext,
+  useState,
+  useCallback,
+  useEffect,
+} from 'react';
 
 // Create a context for your ReadingList
 const ReadingListContext = createContext();
@@ -8,31 +14,35 @@ export const useAddContext = () => {
   return useContext(ReadingListContext);
 };
 
-// Create the ReadingListContextProvider component
 export function ReadingListContextProvider({ children }) {
-  // Initialize your state, for example, addedIssues as an empty array
   const [addedIssues, setAddedIssues] = useState([]);
 
-  // Function to toggle the "like" status of an issue
-  const toggleLike = useCallback((issueId) => {
-    setAddedIssues((prevIssues) => {
-      if (prevIssues.includes(issueId)) {
-        // Remove the issue from the list if it's already added
-        return prevIssues.filter((id) => id !== issueId);
-      } else {
-        // Add the issue to the list if it's not already added
-        return [...prevIssues, issueId];
-      }
-    });
+  useEffect(() => {
+    const storedReadingList = localStorage.getItem('readingList');
+    if (storedReadingList) {
+      setAddedIssues(JSON.parse(storedReadingList));
+    }
   }, []);
 
-  // Define the context value
+  const toggleLike = (issueId) => {
+    setAddedIssues((prevIssues) => {
+      if (prevIssues.includes(issueId)) {
+        const updatedIssues = prevIssues.filter((id) => id !== issueId);
+        localStorage.setItem('readingList', JSON.stringify(updatedIssues));
+        return updatedIssues;
+      } else {
+        const updatedIssues = [...prevIssues, issueId];
+        localStorage.setItem('readingList', JSON.stringify(updatedIssues));
+        return updatedIssues;
+      }
+    });
+  };
+
   const contextValue = {
     addedIssues,
     toggleLike,
   };
 
-  // Provide the context value to children components
   return (
     <ReadingListContext.Provider value={contextValue}>
       {children}

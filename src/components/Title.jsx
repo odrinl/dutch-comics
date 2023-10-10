@@ -6,9 +6,9 @@ function Title() {
       </div>
       <div className='container description'>
         <p>
-          Comic books in the Dutch language. <br />
+          Vintage comics in Dutch. 10 261 pdf files. <br />
           Many are translations of other countries' comics, <br />
-          but many are home-grown as well. <br />
+          but many are home-grown. <br />
           app API &nbsp; -
           <a
             href='https://archive.org/details/dutchcomicbooks'

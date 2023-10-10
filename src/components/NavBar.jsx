@@ -5,9 +5,11 @@ function NavBar() {
   return (
     <nav className='top'>
       <div className='container navbar'>
-        <div className='home'>
+        <div id='brand-name'>
           <Link to={'/'}>
-            <h2>Dutch Comics</h2>
+            <div className='home'>
+              <h2>Dutch Comics</h2>
+            </div>
           </Link>
         </div>
         <div className='container all-links'>
@@ -15,11 +17,11 @@ function NavBar() {
             <NavLink to={'/series'}>All series</NavLink>
           </div>
           <div className='container link'>
-            <NavLink to={'/popular-comics'}>Popular Comics</NavLink>
+            <NavLink to={'/popular-comics'}>Popular Series</NavLink>
           </div>
           <div className='container link'>
             <NavLink to={'/reading-list'}>
-              ReadingList &nbsp;
+              Reading List &nbsp;
               <RiFileList3Fill />
             </NavLink>
           </div>

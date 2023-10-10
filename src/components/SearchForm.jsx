@@ -18,6 +18,11 @@ const SearchForm = () => {
   };
 
   const handleSearch = () => {
+    if (searchQuery.trim() === '') {
+      // Input field is empty, do nothing
+      return;
+    }
+
     const filteredResults = jsonData.filter((item) =>
       item.title.toLowerCase().includes(searchQuery.toLowerCase())
     );
@@ -32,7 +37,11 @@ const SearchForm = () => {
 
   return (
     <div className='container search'>
-      <h2>Search by any part of full title (series, number, name)</h2>
+      <div>
+        <h2>Search by any part of full title</h2>
+        <br />
+        <p>(series, number, name)</p>
+      </div>
       <div className='container search-block'>
         <div class='container searchbox'>
           <svg aria-hidden='true' viewBox='0 0 24 24'>
@@ -57,7 +66,6 @@ const SearchForm = () => {
           Search
         </button>
       </div>
-
       <div className='container search-results'>
         {searchResults.map((item) => (
           <SearchResult key={item.id} item={item} />

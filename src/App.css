@@ -58,7 +58,7 @@ h2 {
   flex-wrap: wrap;
   justify-content: center;
   max-width: 1200px;
-  border: 2px dashed rgb(0, 255, 65);
+  /* border: 2px dashed rgb(0, 255, 65); */
 }
 
 nav {

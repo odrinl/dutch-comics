@@ -526,6 +526,10 @@ footer a {
   .navbar {
     flex-wrap: wrap;
   }
+  .description,
+  .description a {
+    font-size: 1.1rem;
+  }
 }
 
 @media (hover: hover) {

@@ -6,9 +6,11 @@ function Title() {
       </div>
       <div className='container description'>
         <p>
-          Vintage comics in Dutch. 10&nbsp;261&nbsp;pdf&nbsp;files. <br />
-          Many are translations of other&nbsp;countries'&nbsp;comics, <br />
-          but many are&nbsp;home-grown. <br />
+          Vintage comics in Dutch. <strong>10&nbsp;261</strong>
+          &nbsp;pdf&nbsp;files. <br />
+          Many are <strong>translations</strong> of
+          other&nbsp;countries'&nbsp;comics, <br />
+          but many are&nbsp;<strong>home-grown</strong>. <br />
           Source of information -&nbsp;
           <a
             href='https://archive.org/details/dutchcomicbooks'
@@ -16,17 +18,17 @@ function Title() {
             target='_blank'
             rel='noopener noreferrer'
           >
-            Internet&nbsp;Archive&nbsp;collection
+            <strong>Internet&nbsp;Archive&nbsp;collection</strong>
           </a>
           <br />
-          History of Dutch Comics ("stripverhaal") &nbsp;
+          History of Dutch Comics ("stripverhaal")&nbsp;
           <a
             href='https://en.wikipedia.org/wiki/Dutch_comics'
             alt='Dutch Comics article in Wiki'
             target='_blank'
             rel='noopener noreferrer'
           >
-            in&nbsp;Wikipedia
+            <strong>in&nbsp;Wikipedia</strong>
           </a>
         </p>
       </div>

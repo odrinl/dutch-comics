@@ -153,10 +153,8 @@ div.series {
 
 .description,
 .description a {
-  font-weight: bolder;
-  font-size: 1.5rem;
+  font-size: 1.3rem;
 }
-
 .series.inner-card {
   flex-direction: column;
   position: relative;

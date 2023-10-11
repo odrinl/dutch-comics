@@ -18,7 +18,7 @@ function Title() {
             target='_blank'
             rel='noopener noreferrer'
           >
-            <strong>Internet&nbsp;Archive&nbsp;collection</strong>
+            <strong>Internet&nbsp;Archive&nbsp;collection</strong>.
           </a>
           <br />
           History of Dutch Comics ("stripverhaal")&nbsp;
@@ -28,7 +28,7 @@ function Title() {
             target='_blank'
             rel='noopener noreferrer'
           >
-            <strong>in&nbsp;Wikipedia</strong>
+            <strong>in&nbsp;Wikipedia</strong>.
           </a>
         </p>
       </div>

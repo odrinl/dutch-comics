@@ -6,9 +6,9 @@ function Title() {
       </div>
       <div className='container description'>
         <p>
-          Vintage comics in Dutch. 10 261 pdf files. <br />
-          Many are translations of other countries' comics, <br />
-          but many are home-grown. <br />
+          Vintage comics in Dutch. 10&nbsp;261&nbsp;pdf&nbsp;files. <br />
+          Many are translations of other&nbsp;countries'&nbsp;comics, <br />
+          but many are&nbsp;home-grown. <br />
           Source of information -&nbsp;
           <a
             href='https://archive.org/details/dutchcomicbooks'
@@ -16,7 +16,7 @@ function Title() {
             target='_blank'
             rel='noopener noreferrer'
           >
-            Internet Archive collection
+            Internet&nbsp;Archive&nbsp;collection
           </a>
           <br />
           History of Dutch Comics ("stripverhaal") &nbsp;
@@ -26,7 +26,7 @@ function Title() {
             target='_blank'
             rel='noopener noreferrer'
           >
-            in Wikipedia
+            in&nbsp;Wikipedia
           </a>
         </p>
       </div>

@@ -153,8 +153,8 @@ div.series {
 
 .description,
 .description a {
-  font-size: large;
   font-weight: bolder;
+  font-size: 1.5rem;
 }
 
 .series.inner-card {
@@ -464,7 +464,6 @@ footer {
   background-color: #e8e8e8;
   text-align: center;
   padding: 50px 0;
-  margin-top: 25px;
 }
 
 footer a {

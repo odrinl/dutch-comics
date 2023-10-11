@@ -1,4 +1,4 @@
-import { Link, NavLink } from 'react-router-dom';
+import { NavLink } from 'react-router-dom';
 import { RiFileList3Fill } from 'react-icons/ri';
 
 function NavBar() {
@@ -6,11 +6,11 @@ function NavBar() {
     <nav className='top'>
       <div className='container navbar'>
         <div id='brand-name'>
-          <Link to={'/'}>
+          <NavLink to={'/'}>
             <div className='home'>
               <h2>Dutch Comics</h2>
             </div>
-          </Link>
+          </NavLink>
         </div>
         <div className='container all-links'>
           <div className='container link'>

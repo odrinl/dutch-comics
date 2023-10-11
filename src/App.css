@@ -256,6 +256,7 @@ button {
 .container.icon {
   display: flex;
   justify-content: flex-end;
+  border-radius: 10%;
 }
 
 .description p {
@@ -565,7 +566,7 @@ footer a {
     color: black;
   }
 
-  .reading-icon:hover {
+  .container.icon:hover {
     background-color: #ff9900;
   }
 

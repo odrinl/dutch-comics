@@ -9,7 +9,7 @@ function Title() {
           Vintage comics in Dutch. 10 261 pdf files. <br />
           Many are translations of other countries' comics, <br />
           but many are home-grown. <br />
-          app API -&nbsp;
+          Source of information -&nbsp;
           <a
             href='https://archive.org/details/dutchcomicbooks'
             alt='Internet Archive collection'

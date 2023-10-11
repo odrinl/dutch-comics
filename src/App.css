@@ -171,7 +171,8 @@ div.series {
   background-color: #06bbd4;
 }
 
-.description {
+.description,
+.description a {
   font-size: large;
   font-weight: bolder;
 }
@@ -509,6 +510,7 @@ footer a {
   color: #7852bf;
   font-weight: bold;
   background-color: #e8e8e8;
+  font-size: large;
 }
 
 footer a:hover {

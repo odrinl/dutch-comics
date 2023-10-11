@@ -38,17 +38,9 @@ a {
   transition: background-color 0.3s ease;
 }
 
-a:hover {
-  background-color: #ff9900;
-}
-
 .liked {
   background-color: #06bbd4;
   border-radius: 10%;
-}
-
-.liked:hover {
-  background-color: #ff9900;
 }
 
 h1,
@@ -125,14 +117,6 @@ nav .all-links a.active {
   color: black;
 }
 
-#brand-name:hover {
-  background-color: #ff9900;
-}
-
-#brand-name:hover a {
-  background-color: transparent;
-}
-
 #brand-name:has(a.active) {
   background-color: #06bbd4;
 }
@@ -165,10 +149,6 @@ div.series {
 
 .home a {
   background-color: transparent;
-}
-
-.home a:hover {
-  background-color: #06bbd4;
 }
 
 .description,
@@ -204,10 +184,6 @@ button {
   border-radius: 10px;
 }
 
-button:hover {
-  background-color: #615f5f;
-}
-
 .other-info {
   flex-direction: column;
   justify-content: space-evenly;
@@ -225,19 +201,10 @@ button:hover {
   color: black;
 }
 
-.other-info button:hover {
-  background-color: #ff9900;
-}
-
 .description a {
   color: #7852bf;
   padding: 0;
   background-color: white;
-}
-
-.description a:hover {
-  background-color: white;
-  color: black;
 }
 
 .container.title {
@@ -318,10 +285,6 @@ button:hover {
   padding: 0.2rem;
   border: #fefefe solid 1px;
   border-radius: 10%;
-}
-
-.reading-icon:hover {
-  background-color: #ff9900;
 }
 
 .series a {
@@ -470,11 +433,6 @@ input[type='search']::-webkit-search-decoration {
   /* Remove the left padding inside the box for Safari; see https://github.com/filipelinhares/ress/blob/master/ress.css */
 }
 
-.searchbox svg:hover {
-  fill: #06bbd4;
-  border-radius: 10%;
-}
-
 /* Styling focus state */
 .searchbox input[type='search']:focus {
   border-color: #06bbd4;
@@ -515,12 +473,6 @@ footer a {
   font-size: large;
 }
 
-footer a:hover {
-  background-color: #e8e8e8;
-  border-radius: 0;
-  color: black;
-}
-
 .top-button {
   position: fixed;
   bottom: 5px;
@@ -538,10 +490,6 @@ footer a:hover {
 
 .top-button.visible {
   opacity: 1;
-}
-
-.top-button:hover {
-  background-color: #0596a9;
 }
 
 /* Media Queries */
@@ -580,5 +528,59 @@ footer a:hover {
 
   .navbar {
     flex-wrap: wrap;
+  }
+}
+
+@media (hover: hover) {
+  a:hover {
+    background-color: #ff9900;
+  }
+
+  .liked:hover {
+    background-color: #ff9900;
+  }
+
+  #brand-name:hover {
+    background-color: #ff9900;
+  }
+
+  #brand-name:hover a {
+    background-color: transparent;
+  }
+
+  .home a:hover {
+    background-color: #06bbd4;
+  }
+
+  button:hover {
+    background-color: #615f5f;
+  }
+
+  .other-info button:hover {
+    background-color: #ff9900;
+  }
+
+  .description a:hover {
+    background-color: white;
+    color: black;
+  }
+
+  .reading-icon:hover {
+    background-color: #ff9900;
+  }
+
+  .searchbox svg:hover {
+    fill: #06bbd4;
+    border-radius: 10%;
+  }
+
+  footer a:hover {
+    background-color: #e8e8e8;
+    border-radius: 0;
+    color: black;
+  }
+
+  .top-button:hover {
+    background-color: #0596a9;
   }
 }

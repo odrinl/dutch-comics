@@ -18,6 +18,16 @@ function Title() {
           >
             Internet Archive collection
           </a>
+          <br />
+          History of Dutch Comics ("stripverhaal") &nbsp;
+          <a
+            href='https://en.wikipedia.org/wiki/Dutch_comics'
+            alt='Dutch Comics article in Wiki'
+            target='_blank'
+            rel='noopener noreferrer'
+          >
+            in Wikipedia
+          </a>
         </p>
       </div>
       <div className='container image'>

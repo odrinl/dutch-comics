@@ -570,6 +570,10 @@ footer a:hover {
     flex-wrap: wrap;
   }
 
+  .container.search {
+    padding-right: 1rem;
+  }
+
   .info {
     flex-wrap: wrap;
   }

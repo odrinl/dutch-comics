@@ -9,10 +9,6 @@ function SeriesItems() {
   const navigate = useNavigate();
   const { addedIssues, toggleLike } = useAddContext();
 
-  const openPdfInNewWindow = (pdfLink) => {
-    window.open(pdfLink, '_blank');
-  };
-
   const selectedIssue = data.find((issue) => String(issue.id) === String(id));
 
   return (
@@ -49,10 +45,9 @@ function SeriesItems() {
                   <div>Title: {selectedIssue.title}</div>
                   <div className='container'>
                     <button
-                      target='_blank'
-                      rel='noopener noreferrer'
-                      href='#'
-                      onClick={() => openPdfInNewWindow(selectedIssue.pdfLink)}
+                      onClick={() =>
+                        window.open(selectedIssue.pdfLink, '_blank')
+                      }
                     >
                       Click here to open pdf in a new window
                     </button>

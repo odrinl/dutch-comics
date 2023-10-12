@@ -5,7 +5,7 @@ import ReadingList from './ReadingList';
 import SearchForm from './SearchForm';
 import PopularComics from './PopularComics';
 import Series from './Series';
-import SeriesItems from './SeriesIssues';
+import SeriesIssues from './SeriesIssues';
 import Issue from './Issue';
 import FetchError from '../errorHandling/FetchError';
 import NotFound from '../errorHandling/NotFound';
@@ -21,7 +21,7 @@ function MainArea() {
           <Route path='/search-form' element={<SearchForm />} />
           <Route path='/popular-comics' element={<PopularComics />} />
           <Route path='/series' element={<Series />} />
-          <Route path='/series/:series' element={<SeriesItems />} />
+          <Route path='/series/:series' element={<SeriesIssues />} />
           <Route path='/series/:series/:id' element={<Issue />} />
           <Route path='/fetch-error' element={<FetchError />} />
           <Route path='*' element={<NotFound />} />

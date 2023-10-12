@@ -3,13 +3,21 @@ import data from '../data/unique_issues.json';
 import { useAddContext } from '../context/ReadingListContext';
 import { RiFileList3Fill, RiFileList3Line } from 'react-icons/ri';
 import { useNavigate } from 'react-router-dom';
+import { isMobile } from 'react-device-detect';
 
-function SeriesItems() {
+function Issue() {
   const { id } = useParams();
   const navigate = useNavigate();
   const { addedIssues, toggleLike } = useAddContext();
 
   const selectedIssue = data.find((issue) => String(issue.id) === String(id));
+
+  const googleDocsViewerPrefix =
+    'https://docs.google.com/gview?embedded=true&url=';
+
+  const pdfLink = isMobile
+    ? googleDocsViewerPrefix + selectedIssue.pdfLink
+    : selectedIssue.pdfLink;
 
   return (
     <div className='reading-list'>
@@ -44,11 +52,7 @@ function SeriesItems() {
                   </div>
                   <div>Title: {selectedIssue.title}</div>
                   <div className='container'>
-                    <button
-                      onClick={() =>
-                        window.open(selectedIssue.pdfLink, '_blank')
-                      }
-                    >
+                    <button onClick={() => window.open(pdfLink, '_blank')}>
                       Click here to open pdf in a new window
                     </button>
                   </div>
@@ -64,4 +68,4 @@ function SeriesItems() {
   );
 }
 
-export default SeriesItems;
+export default Issue;

@@ -1,5 +1,4 @@
 :root {
-  --font-comic-neue: 'Comic Neue', cursive, sans-serif;
   --color-primary: #06bbd4;
   --color-secondary: #ffcc00;
 }
@@ -30,7 +29,7 @@ a {
   width: 100%;
   margin: 0;
   padding: 0;
-  font-family: var(--font-comic-neue), cursive, sans-serif;
+  font-family: 'Comic Neue', cursive, sans-serif;
   font-size: medium;
   text-decoration: none;
   color: #333;
@@ -51,7 +50,6 @@ a {
 
 h1,
 h2 {
-  font-family: var(--font-comic-neue), cursive, sans-serif;
   text-align: center;
 }
 
@@ -187,7 +185,6 @@ div.series {
 
 button {
   background-color: #a9a5a5;
-  font-family: var(--font-comic-neue), cursive, sans-serif;
   color: #fff;
   border: none;
   padding: 10px 20px;

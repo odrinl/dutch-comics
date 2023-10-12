@@ -494,6 +494,19 @@ footer a {
   opacity: 1;
 }
 
+.pdf {
+  flex-direction: column;
+}
+
+.pdf a {
+  width: fit-content;
+  padding: 10px 20px;
+}
+
+#download {
+  margin-top: 1rem;
+}
+
 /* Media Queries */
 @media (max-width: 860px) {
   .all-links {

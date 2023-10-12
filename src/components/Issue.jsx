@@ -12,12 +12,7 @@ function Issue() {
 
   const selectedIssue = data.find((issue) => String(issue.id) === String(id));
 
-  const googleDocsViewerPrefix =
-    'https://docs.google.com/gview?embedded=true&url=';
-
-  const pdfLink = isMobile
-    ? googleDocsViewerPrefix + selectedIssue.pdfLink
-    : selectedIssue.pdfLink;
+  const googleDocsViewer = 'https://docs.google.com/gview?embedded=true&url=';
 
   return (
     <div className='reading-list'>
@@ -47,14 +42,31 @@ function Issue() {
                   <img src={selectedIssue.img} alt={selectedIssue.title} />
                 </div>
                 <div className='container other-info'>
-                  <div className='container'>
-                    Series: {selectedIssue.series}
+                  <div>
+                    <strong>Series:</strong>
+                    <br />
+
+                    {selectedIssue.series}
                   </div>
-                  <div>Title: {selectedIssue.title}</div>
-                  <div className='container'>
-                    <button onClick={() => window.open(pdfLink, '_blank')}>
+                  <div>
+                    <strong>Title:</strong> {selectedIssue.title}
+                  </div>
+                  <div className='container pdf'>
+                    <a
+                      href={
+                        isMobile
+                          ? googleDocsViewer + selectedIssue.pdfLink
+                          : selectedIssue.pdfLink
+                      }
+                      target='_blank'
+                      rel='noopener noreferrer'
+                    >
                       Click here to open pdf in a new window
-                    </button>
+                    </a>
+
+                    <a id='download' href={selectedIssue.pdfLink} download>
+                      Download PDF
+                    </a>
                   </div>
                 </div>
               </div>

@@ -1,4 +1,4 @@
-import { useParams } from 'react-router-dom';
+import { Link, useParams } from 'react-router-dom';
 import data from '../data/unique_issues.json';
 import { useAddContext } from '../context/ReadingListContext';
 import { RiFileList3Fill, RiFileList3Line } from 'react-icons/ri';
@@ -46,7 +46,9 @@ function Issue() {
                     <strong>Series:</strong>
                     <br />
 
-                    {selectedIssue.series}
+                    <Link to={`/series/${selectedIssue.series}`}>
+                      {selectedIssue.series}
+                    </Link>
                   </div>
                   <div>
                     <strong>Title:</strong> {selectedIssue.title}

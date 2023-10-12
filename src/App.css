@@ -234,8 +234,11 @@ button {
 }
 
 .container a {
-  width: 150px;
   text-align: center;
+}
+
+.main-area a {
+  width: 150px;
 }
 
 .image img {
@@ -267,8 +270,8 @@ button {
 }
 
 .home-page h1 {
-  margin-top: 4rem;
-  margin-bottom: 1rem;
+  margin-top: 3rem;
+  margin-bottom: 0.8rem;
 }
 
 .series {
@@ -312,7 +315,6 @@ button {
 }
 
 .search {
-  margin-top: 1rem;
   position: relative;
 }
 
@@ -340,7 +342,6 @@ button {
   flex-direction: column;
   background-color: white;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  padding-top: 2rem;
   text-align: left;
   width: 100%;
   align-content: center;
@@ -467,6 +468,7 @@ footer {
   background-color: #e8e8e8;
   text-align: center;
   padding: 50px 0;
+  margin-top: 2rem;
 }
 
 footer a {

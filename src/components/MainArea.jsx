@@ -2,7 +2,6 @@ import React from 'react';
 import { Routes, Route } from 'react-router-dom';
 import Home from './Home';
 import ReadingList from './ReadingList';
-import SearchForm from './SearchForm';
 import PopularComics from './PopularComics';
 import Series from './Series';
 import SeriesIssues from './SeriesIssues';
@@ -18,7 +17,6 @@ function MainArea() {
         <Routes>
           <Route path='/' element={<Home />} />
           <Route path='/reading-list' element={<ReadingList />} />
-          <Route path='/search-form' element={<SearchForm />} />
           <Route path='/popular-comics' element={<PopularComics />} />
           <Route path='/series' element={<Series />} />
           <Route path='/series/:series' element={<SeriesIssues />} />

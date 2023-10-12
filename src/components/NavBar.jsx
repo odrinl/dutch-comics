@@ -1,7 +1,15 @@
-import { NavLink } from 'react-router-dom';
+import { Link, NavLink } from 'react-router-dom';
 import { RiFileList3Fill } from 'react-icons/ri';
+import SearchForm from './SearchForm';
+import { useState } from 'react';
 
 function NavBar() {
+  const [searchVisible, setSearchVisible] = useState(true);
+
+  const toggleSearch = () => {
+    setSearchVisible(!searchVisible);
+  };
+
   return (
     <nav className='top'>
       <div className='container navbar'>
@@ -25,8 +33,17 @@ function NavBar() {
               <RiFileList3Fill />
             </NavLink>
           </div>
+          <div className='container link'>
+            <Link
+              className={searchVisible ? 'active' : ''}
+              onClick={toggleSearch}
+            >
+              {searchVisible ? 'Hide Search' : 'Show Search'}
+            </Link>
+          </div>
         </div>
       </div>
+      {searchVisible && <SearchForm />}
     </nav>
   );
 }

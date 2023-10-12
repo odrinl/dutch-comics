@@ -24,6 +24,11 @@ const SearchForm = () => {
     }
   };
 
+  const clearQuery = () => {
+    setSearchQuery('');
+    setShowResults(false);
+  };
+
   const handleSearch = () => {
     if (searchQuery.trim() === '') {
       return;
@@ -70,7 +75,12 @@ const SearchForm = () => {
       <div className='container search-results'>
         {showResults &&
           searchResults.map((item) => (
-            <SearchResult key={item.id} item={item} series={item.series} />
+            <SearchResult
+              key={item.id}
+              item={item}
+              series={item.series}
+              clearQuery={clearQuery}
+            />
           ))}
       </div>
     </div>

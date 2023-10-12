@@ -12,7 +12,7 @@ import { ReadingListContextProvider } from '../context/ReadingListContext';
 
 function MainArea() {
   return (
-    <div className='main-area container'>
+    <main className='main-area container'>
       <ReadingListContextProvider>
         <Routes>
           <Route path='/' element={<Home />} />
@@ -25,7 +25,7 @@ function MainArea() {
           <Route path='*' element={<NotFound />} />
         </Routes>
       </ReadingListContextProvider>
-    </div>
+    </main>
   );
 }
 

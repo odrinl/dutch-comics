@@ -35,12 +35,12 @@ function Title() {
           </a>
         </p>
       </div>
-      <div className='container image'>
+      <figure className='container image'>
         <img
           src='https://www.lambiek.net/artists/image/artefacts/1970_tijdschriften/pepcrew.jpg'
           alt='pepcrew'
         />
-      </div>
+      </figure>
     </div>
   );
 }

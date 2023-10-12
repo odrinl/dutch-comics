@@ -1,3 +1,9 @@
+:root {
+  --font-comic-neue: 'Comic Neue', cursive, sans-serif;
+  --color-primary: #06bbd4;
+  --color-secondary: #ffcc00;
+}
+
 @font-face {
   font-family: 'Comic Neue';
   src: url('/public/fonts/ComicNeue-Regular.ttf') format('truetype');
@@ -24,7 +30,7 @@ a {
   width: 100%;
   margin: 0;
   padding: 0;
-  font-family: 'Comic Neue', cursive, sans-serif;
+  font-family: var(--font-comic-neue), cursive, sans-serif;
   font-size: medium;
   text-decoration: none;
   color: #333;
@@ -32,20 +38,20 @@ a {
 
 a {
   padding: 5px 15px;
-  background-color: #ffcc00;
+  background-color: var(--color-secondary);
   color: #000;
   border-radius: 8px;
   transition: background-color 0.3s ease;
 }
 
 .liked {
-  background-color: #06bbd4;
+  background-color: var(--color-primary);
   border-radius: 10%;
 }
 
 h1,
 h2 {
-  font-family: 'Comic Neue', cursive, sans-serif;
+  font-family: var(--font-comic-neue), cursive, sans-serif;
   text-align: center;
 }
 
@@ -70,23 +76,23 @@ h2 {
   /* border: 2px dashed rgb(0, 255, 65); */
 }
 
-nav {
+header {
   background-color: #e8e8e8;
   padding: 10px 0;
 }
 
-nav a {
+header a {
   margin: 0 10px;
   font-size: 18px;
 }
 
 .active {
-  background-color: #06bbd4;
+  background-color: var(--color-primary);
   font-weight: bold;
 }
 
 nav .all-links a.active {
-  background-color: #06bbd4;
+  background-color: var(--color-primary);
   color: #fff;
   border-radius: 10px;
   padding: 5px 10px;
@@ -118,7 +124,7 @@ nav .all-links a.active {
 }
 
 #brand-name:has(a.active) {
-  background-color: #06bbd4;
+  background-color: var(--color-primary);
 }
 
 .home {
@@ -160,6 +166,10 @@ div.series {
   margin-bottom: 0.7rem;
 }
 
+.image {
+  margin: 0;
+}
+
 .series.inner-card {
   flex-direction: column;
   position: relative;
@@ -177,7 +187,7 @@ div.series {
 
 button {
   background-color: #a9a5a5;
-  font-family: 'Comic Neue', cursive, sans-serif;
+  font-family: var(--font-comic-neue), cursive, sans-serif;
   color: #fff;
   border: none;
   padding: 10px 20px;
@@ -200,7 +210,7 @@ button {
 }
 
 .other-info button {
-  background-color: #ffcc00;
+  background-color: var(--color-secondary);
   color: black;
 }
 
@@ -312,6 +322,10 @@ button {
 .top,
 .navbar {
   width: 100%;
+}
+
+.search {
+  margin: 0 auto;
 }
 
 .search {
@@ -440,8 +454,8 @@ input[type='search']::-webkit-search-decoration {
 
 /* Styling focus state */
 .searchbox input[type='search']:focus {
-  border-color: #06bbd4;
-  box-shadow: 0 0 5px #06bbd4;
+  border-color: var(--color-primary);
+  box-shadow: 0 0 5px var(--color-primary);
   outline: 1px solid transparent;
   /* fallback for forced color modes; see https://www.sarasoueidan.com/blog/focus-indicators/#tips-for-styling-focus-indicators */
   /* it also removes the default focus ring imposed by browsers */
@@ -481,7 +495,7 @@ footer a {
   position: fixed;
   bottom: 5px;
   right: 5px;
-  background-color: #06bbd4;
+  background-color: var(--color-primary);
   color: #fff;
   border: none;
   border-radius: 5px;
@@ -500,7 +514,7 @@ footer a {
   flex-direction: column;
 }
 
-.pdf a {
+.info a {
   width: fit-content;
   padding: 10px 20px;
 }
@@ -570,7 +584,7 @@ footer a {
   }
 
   .home a:hover {
-    background-color: #06bbd4;
+    background-color: var(--color-primary);
   }
 
   button:hover {
@@ -591,7 +605,7 @@ footer a {
   }
 
   .searchbox svg:hover {
-    fill: #06bbd4;
+    fill: var(--color-primary);
     border-radius: 10%;
   }
 

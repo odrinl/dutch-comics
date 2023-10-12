@@ -25,7 +25,7 @@ function Issue() {
         <h2>Selected Issue:</h2>
 
         {selectedIssue ? (
-          <div className='container card'>
+          <div className='container'>
             <div className='series inner-card'>
               <div
                 className='container icon'

@@ -11,8 +11,8 @@ function NavBar() {
   };
 
   return (
-    <nav className='top'>
-      <div className='container navbar'>
+    <header className='top'>
+      <nav className='container navbar'>
         <div id='brand-name'>
           <NavLink to={'/'}>
             <div className='home'>
@@ -42,9 +42,9 @@ function NavBar() {
             </Link>
           </div>
         </div>
-      </div>
+      </nav>
       {searchVisible && <SearchForm />}
-    </nav>
+    </header>
   );
 }
 

@@ -486,6 +486,12 @@ footer a {
   color: #7852bf;
   background-color: #e8e8e8;
   font-size: large;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+footer p {
+  font-size: large;
 }
 
 .top-button {

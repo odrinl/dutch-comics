@@ -7,6 +7,8 @@ export default function Footer() {
           My another project -&nbsp;
           <a href='https://dutchword.netlify.app/'>Dutch Word app</a>
         </p>
+
+        <a href='https://www.linkedin.com/in/odrinl/'>My LinkedIn</a>
       </div>
     </footer>
   );
